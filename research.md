@@ -24,7 +24,7 @@ title: Research
 
 JSPS Research Fellow DC1, 2013
 
-JASSO Fellow (Total Exemption for Particularly Outstanding Students), 2013
+JASSO Fellow for Particularly Outstanding Students, 2013
 
 JBMC Microsoft Award, 2014
 

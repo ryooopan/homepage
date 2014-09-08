@@ -5,6 +5,7 @@ title: Projects
 
 #### Cumiki
 
+Programming educational tool for GitHub code.
 Learning and teaching open source code with excerpting and assembling like LEGO blocks.
 
 <iframe src="//player.vimeo.com/video/80601209" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/80601209">How to use Cumiki</a> from <a href="http://vimeo.com/cumiki">Cumiki</a> on <a href="https://vimeo.com">Vimeo</a>.</p>

@@ -31,6 +31,34 @@ B.S in Engineering, Tokyo Institute of Technology, 2007 - 2011
 
 ===
 
+#### Working Experience
+
+CTO at [Dada, Inc](http://dadainc.jp), August 2012 - March 2013
+
+Software Engineer at [Howtelevision, Inc](http://howtelevision.co.jp), December 2011 - March 2013 
+
+T.A. of Microeconomic Policy for Prof. Dan Sasaki, Fall 2012
+
+T.A. of Statistics for Prof. Takuya Kaneko, Fall 2012
+
+T.A. of Mathematics II for Prof. Kazuya Kamiya, Sprint 2012
+
+T.A. of Advanced Macroeconomics for Prof. Takumi Naito, Fall 2010
+
+===
+
+#### Skills
+
+**Programming Languages:** Python, Ruby, JavaScript, Objective-C, C/C++, Java, PHP, HAML, SASS
+
+**Development Framework:** Ruby on Rails, Node.js, Django, iOS, Android, Processing, Arduino
+
+**Database:** MySQL, PostgreSQL, MongoDB, Redis, Memcached
+
+**Tools:** Git, Emacs
+
+===
+
 #### Contact 
 
 Tweet at [@ryooopan](http://twitter.com/ryooopan) and read my code on [GitHub](http://github.com/ryooopan).

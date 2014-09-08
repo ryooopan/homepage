@@ -50,7 +50,7 @@ We were proudly honored as the prize winner by Japanese astrronaut Naoko Yamazak
 
 ===
 
-#### Mitakalab 
+#### Mitakalab [[Website](http://developer.mitakalab.com)]
 
 With coorporation of [University of Tokyo Center of Innovation](http://www.ducr.u-tokyo.ac.jp/en/), I launched Mitakalab community, which provides the place where everybody can learn to code and create innovation.
 
@@ -58,7 +58,7 @@ With coorporation of [University of Tokyo Center of Innovation](http://www.ducr.
 
 ===
 
-#### Samenos [[Demo](http://samenos.com)]
+#### Samenos [[Website](http://samenos.com)]
 
 Samenos is an oline portfolio service for artists, illustrators, and designers.
 

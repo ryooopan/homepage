@@ -16,3 +16,22 @@ title: Research
 #### Working Papers
 
 "Incentive Structure on Open Source Software Community: Case Study of GitHub", 2014, Working Paper.
+
+
+===
+
+#### Awards and Honors 
+
+JSPS Research Fellow DC1, 2013
+
+JASSO Fellow (Total Exemption for Particularly Outstanding Students), 2013
+
+JBMC Microsoft Award, 2014
+
+Tech Crunch Tokyo 2013 Finalist, 2013
+
+1st Prize Winner of University of Tokyo Entrepreneur Dojo, 2012
+
+Honer of MOVIDA School founded by Taizo Son, 2012
+
+Tohso Scholorship Fellowship, 2010

@@ -9,10 +9,10 @@ google_analytics: UA-27423847-3
 links:
   - name:         Home
     url:          /
-  - name:         Research
-    url:          /research
   - name:         Projects
     url:          /projects
+  - name:         Research
+    url:          /research
   - name:         About
     url:          /about
   - name:         CV/Resume

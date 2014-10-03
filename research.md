@@ -5,9 +5,11 @@ title: Research
 
 #### Research Papers
 
+"Network Thresholds and Multiple Equilibria in the Diffusion of Content-based Platforms.", 2014, WINE (Conference on Web and Internet Economics) at Beijing, China
+
 "Diffusion Process and Take-off Conditions of the Online Platform", 2013, Microeconomic Policy Workshop at University of Tokyo.
 
-"Diffusion Process and Community Design", 2012, Advanced Microeconomic Theory Workshop at Osaka University.
+"Diffusion Process and Community Design", 2012, AMTW (Advanced Microeconomic Theory Workshop) at Osaka University.
 
 "Educational Economics about Mechanism of the Income Gap Expansion and Human Capital Investment", 2011, Social Science Research, Vol. 63, No. 1 (in Japanese)
 

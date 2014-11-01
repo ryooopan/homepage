@@ -1,5 +1,5 @@
 ---
-layout: index
+layout: page
 ---
 
 #### Ryo Suzuki
@@ -9,19 +9,18 @@ I am a Ph.D student at [University of Tokyo](http://www.u-tokyo.ac.jp/en/) [Grad
 I am also a software developer.
 I have a background in computer science and programming skills with some working experiences.
 
-email: ryooopan [at] gmail.com
-
-
-#### Research interest 
-
-
-Game Theory, Diffusion Theory, Social Network Analysis, and Mechanism Design of Open Source Community.
+email: 1253852881 [at] mail.ecc.u-tokyo.ac.jp
 
 
 ---
 
-#### Recent Projects: Cumiki
 
-Programming educational tool for GitHub code.
+#### Research interest 
 
-<iframe src="//player.vimeo.com/video/80601209" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
+Human Computer Interaction (HCI), Computer Supported Corperative Work (CSCW), Programming Education, Open Source Collaboration, Social Network Analysis, Game Theory
+
+Here is 5 minutes introduction video.
+
+<div class="video-container">
+<iframe width="853" height="480" src="//www.youtube.com/embed/Tb3HL701QSQ" frameborder="0" allowfullscreen></iframe>
+</div>

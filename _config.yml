@@ -1,6 +1,6 @@
 title:            Ryo Suzuki
 description:      Welcome to Ryo Suzuke\'s Web Page
-url:              http://ryooopan.com
+url:              http://ryosuzuki.org
 signoff:          Ryo Suzuki
 disqus_shortname: # disqus comment thread for post header options. ( leave blank if unwanted. )
 facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.
@@ -18,12 +18,6 @@ links:
   - name:         CV/Resume
     url:          /cv.pdf
     external:     true
-#   name:         Blog
-#   url:          http://ryooopan.com
-#   external:     true
-#   name:         GitHub
-#   url:          http://github.com/ryooopan
-#   external:     true
 highlighter:      pygments
 permalink:        pretty
 markdown:         redcarpet

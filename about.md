@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-#### Profile
+### Profile
 
 I live in Tokyo, Japan.
 I graduated from [Tokyo Institute of Technology](http://www.titech.ac.jp/english/index.html) Department of Engineering at 2011.
@@ -20,7 +20,7 @@ In order to facilitate learning programming, I developed Cumiki, which allows yo
 
 ---
 
-#### Education
+### Education
 
 Ph.D in Economics, University of Tokyo, 2013 - Present 
 
@@ -31,7 +31,7 @@ B.S in Engineering, Tokyo Institute of Technology, 2007 - 2011
 
 ---
 
-#### Work Experience
+### Work Experience
 
 CTO at [Dada, Inc](http://dadainc.jp), August 2012 - March 2013
 
@@ -47,7 +47,7 @@ T.A. of Advanced Macroeconomics for Prof. Takumi Naito, Fall 2010
 
 ---
 
-#### Skills
+### Skills
 
 Programming Languages: Python, Ruby, JavaScript, Objective-C, C/C++, Java, PHP
 
@@ -59,7 +59,7 @@ Tools: Git, Emacs
 
 ---
 
-#### Lanugae Skills
+### Lanugae Skills
 
 English: TOEFL iBT 100 (September, 2014)
 
@@ -68,7 +68,7 @@ Japanese: Native
 
 ---
 
-#### Contacts
+### Contacts
 
 Tweet at [@ryooopan](http://twitter.com/ryooopan) and read my code on [GitHub](http://github.com/ryooopan).
 You can also find my resume on [LinkedIn](https://www.linkedin.com/in/ryosuzuki) and contact via [Facebook](https://facebook.com/ryooopan).

@@ -3,7 +3,7 @@ layout: page
 title: Projects
 ---
 
-#### Cumiki
+### Cumiki
 
 Programming educational tool for GitHub code.
 Learning and teaching open source code with excerpting and assembling like LEGO blocks.
@@ -16,7 +16,7 @@ Learning and teaching open source code with excerpting and assembling like LEGO 
 ---
 
 
-#### Interactive Video Tutorial
+### Interactive Video Tutorial
 
 Interactive Video Tutorial allows you to learn programming interactively.
 
@@ -26,7 +26,7 @@ Interactive Video Tutorial allows you to learn programming interactively.
 
 ---
 
-#### HTML5 Interactive Halloween VJ [[Demo](http://halloween.ryooopan.com)]
+### HTML5 Interactive Halloween VJ [[Demo](http://halloween.ryooopan.com)]
 
 Interactive VJ (Video Jockey) for Halloween party.
 This is made for [Google Web Music Hackathon](http://googledevjp.blogspot.jp/2013/09/1019-web-music.html), and [Tech or Treat 2012 at Lab+Cafe](http://lab-cafe.net/page/).
@@ -37,7 +37,7 @@ This is made for [Google Web Music Hackathon](http://googledevjp.blogspot.jp/201
 ---
 
 
-#### Populi - Social Music App
+### Populi - Social Music App
 
 iOS music player app with social recomendation powered by machine learning.
 
@@ -49,7 +49,7 @@ iOS music player app with social recomendation powered by machine learning.
 
 ---
 
-#### Bicycle Electricity Generator
+### Bicycle Electricity Generator
 
 As exhibition of University of Tokyo, I and colleagues developed bicycle power generator and real-time power monitor with Arduino and Node.js 
 
@@ -57,7 +57,7 @@ As exhibition of University of Tokyo, I and colleagues developed bicycle power g
 
 ---
 
-#### NASA Space App Challenge [[Demo](http://craters.heroku.com)]
+### NASA Space App Challenge [[Demo](http://craters.heroku.com)]
 
 I and colleagues joined the [International Space Apps Challenge](https://2012.spaceappschallenge.org/home/) and developed some application wchich utilize a lot of crator images provided by NASA. 
 We were proudly honored as the prize winner by Japanese astrronaut Naoko Yamazaki.
@@ -68,7 +68,7 @@ We were proudly honored as the prize winner by Japanese astrronaut Naoko Yamazak
 
 ---
 
-#### Mitakalab [[Website](http://developer.mitakalab.com)]
+### Mitakalab [[Website](http://developer.mitakalab.com)]
 
 With coorporation of [University of Tokyo Center of Innovation](http://www.ducr.u-tokyo.ac.jp/en/), I launched Mitakalab community, which provides the place where everybody can learn to code and create innovation.
 
@@ -76,7 +76,7 @@ With coorporation of [University of Tokyo Center of Innovation](http://www.ducr.
 
 ---
 
-#### Samenos [[Website](http://samenos.com)]
+### Samenos [[Website](http://samenos.com)]
 
 Samenos is an oline portfolio service for artists, illustrators, and designers.
 

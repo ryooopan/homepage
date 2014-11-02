@@ -3,7 +3,7 @@ layout: page
 title: Research
 ---
 
-#### Research Papers
+### Research Papers
 
 1. "Network Thresholds and Multiple Equilibria in the Diffusion of Content-based Platforms.", 2014, WINE (Conference on Web and Internet Economics) at Beijing, China. [[abstract](/wine2014-abstract.pdf)] [[paper](/wine2014-full.pdf)]
 
@@ -15,14 +15,14 @@ title: Research
 
 ---
 
-#### Working Papers
+### Working Papers
 
 "Incentive Structure on Open Source Software Community: Case Study of GitHub", 2014, Working Paper. [[paper](/working-paper.pdf)]
 
 ---
 
 
-#### Awards and Honors 
+### Awards and Honors 
 
 JSPS Research Fellow DC1, 2013
 

@@ -3,7 +3,7 @@ layout: page
 title: Projects
 ---
 
-### Cumiki
+### Cumiki [[Demo](http://cumiki.com/demo)]
 
 Programming educational tool for GitHub code.
 Learning and teaching open source code with excerpting and assembling like LEGO blocks.

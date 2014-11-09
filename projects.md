@@ -41,10 +41,7 @@ This is made for [Google Web Music Hackathon](http://googledevjp.blogspot.jp/201
 
 iOS music player app with social recomendation powered by machine learning.
 
-
-<img src="/images/populi-1.png" width="210px"></img>
-<img src="/images/populi-2.png" width="210px"></img>
-<img src="/images/populi-4.png" width="210px"></img>
+![](/images/populi.png)
 
 
 ---

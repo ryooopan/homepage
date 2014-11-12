@@ -35,7 +35,7 @@ The project in [Information Visualization and Data Analysis](http://yatani.jp/te
 
 ---
 
-### HTML5 Interactive Halloween VJ [[Demo](http://halloween.ryooopan.com)]
+### HTML5 Interactive Halloween VJ [[Demo](http://halloween.ryosuzuki.org)]
 
 Interactive VJ (Video Jockey) for Halloween party.
 This is made for [Google Web Music Hackathon](http://googledevjp.blogspot.jp/2013/09/1019-web-music.html), and [Tech or Treat 2012 at Lab+Cafe](http://lab-cafe.net/page/).

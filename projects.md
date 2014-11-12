@@ -26,6 +26,15 @@ Interactive Video Tutorial allows you to learn programming interactively.
 
 ---
 
+### Information Visualization with D3.js [[Demo](http://graph.ryosuzuki.org)]
+
+The project in [Information Visualization and Data Analysis](http://yatani.jp/teaching/doku.php?id=2014infovislab:start) hands-on workshop by Prof. [Koji Yatani](http://yatani.jp/) at University of Tokyo.
+
+![](/images/infovis.png)
+
+
+---
+
 ### HTML5 Interactive Halloween VJ [[Demo](http://halloween.ryooopan.com)]
 
 Interactive VJ (Video Jockey) for Halloween party.

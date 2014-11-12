@@ -32,7 +32,7 @@ You can see 5 minutes research introduction video in the below.
 
 ---
 
-#### Recent Projects: Cumiki [[Demo](http://cumiki.com/demo)]
+### Recent Projects: Cumiki [[Demo](http://cumiki.com/demo)]
 
 Programming educational tool for GitHub code.
 

@@ -1,4 +1,4 @@
 Ryo Suzuki
 ========
 
-[](http://ryosuzuki.org)
+http://ryosuzuki.org

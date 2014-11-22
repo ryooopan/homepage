@@ -1,3 +1,38 @@
+
+My primary research objective and interest is in the area of Human Computer Interaction.
+I believe that one of the most important issue in HCI for the next decade would be in the programming education and its learning community.
+Through my research, I want to make it easier for people to learn to code, and to prototype something innovative products with the power of community.
+
+
+My interest in the learning community comes from my personal experience in Mitaka dormitory where I and some friends who have a common interest in coding made a decision to build a programmer community called Mitakalab. We used to gather together every week and code to create some application. As a variety of students get involved in Mitakalab, the products we made became also diversified. We naturally collaborate with each other and our different background in the community like agriculture, astronomy, and education and created something we never did alone. 
+This is the first time I experienced the power of collaboration. And I also found myself acquiring various skills and knowledge from software to hardware development much more than in classes and with textbooks. 
+Programming education is important not only in acquiring skills and knowledge, but also in release one’s potential creativity.
+It has been more and more easy to acquire basic knowledge and skills in programming. However, the difficulty lies in how to combine a knowledge and to stir imagination. 
+Through this experience, I learned a power of collaboration in the community could be the breakthrough solution.
+(Since then, my research goal has been applying my knowledge and skills to understand innovative collaboration and developing its programming education )
+
+
+## Research and academic background 
+
+Online user community
+Building an successful community plays an important role in effective education not only In the sense of helping with each other, but also in stimulating one’s creativity.
+For example, Scratch, which is a programming educational IDE for children, has a very active users' community, and its community enable users to share its project and inspire others’ projects.
+In the past several years, as a economic graduate student, I apply my social science knowledge to analyze human behavior in an online community. 
+In my master’s thesis, I did research on the growth of the online community with the game theoretical model under the supervision of Prof. Michihiro Kandori.
+While previous research including Young (2009) can describe a diffusion curve know as S-shaped curve, these models has a limitation in predicting the difference between thriving and flopped community (like Twitter and the other closed microblog platforms)
+My contribution is to prove there are a threshold that divide into multiple paths which represents a success and a failure in expanding, and then I presented the paper at AMTW 2012.
+To extend the research, I substantiating the model with actual time-series user data. To gather data that fit the model settings, I developed an music recommendation platform where people share their music recommendation. Therefore, my model gives a better prediction for users’ behavior, and the paper later get accepted at WINE 2014.
+
+
+
+----
+
+
+
+
+
+
+
 My primary research interest lies in developing tools for programming education and understanding its learning community.
 
 Since I got involved in developer community in the dormitory, I have had a strong interest in programming education and its learning community. When I lived in the dormitory, I and some friends have a common interest in coding and we used to gather together every weekend to code. As the various students got involved in the community, I had an interesting experience. Since each of us has a different background, we collaborated and prototyped various things from an automated plant watering device to bicycle electricity generator integrated with web and mobile application. I could not imagine before that I can make such a things.

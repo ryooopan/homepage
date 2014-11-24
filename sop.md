@@ -1,9 +1,6 @@
-# Research Interest
-My primary research objective and interest is in the area of Human Computer Interaction.
-I believe that one of the most important issue in HCI for the next decade would be in 
-programming education and its learning community.
-
-To make a significant contribution to this field, I plan to focus on the following three areas in my PhD research: user interface design for programming education, a toolkit design for rapid prototyping, and community development for software and hardware engineering.
+# Research Statement
+I believe that one of the most important issues in HCI for the next decade would be in 
+programming education with emphasis on problem solving. A lot of educational tools have provided easier way to gain the basic knowledge of programming. However, there is still gap between having the knowledge and applying these knowledge to create actual product. My research goal is to fill this gap. Through my research, I want to make it easier for people of all background to acquire problem-oriented software and hardware skills, and to leverage their knowledge with the power of collaboration. I believe my research focus surely plays an important role in boosting user-driven innovation. To achieve this goal, I look forward to undertaking PhD at University of Washington, and I want to do research on developing the new way to learn to code, as a significant stepping-stone to be an outstanding researcher in HCI.
 
 # Motivation 
 The motivation behind this research goal comes from my personal experience in Mitaka dormitory where I build a programmer community, called Mitakalab, with some friends who have a common interest in programming. As a wide-range background students got involved in the community, a variety of products were invented; machine learning engine for NASA’s crater data, bicycle electronic generator, and automatic plant water-pomp with a collaboration between aerospace engineering, agriculture, and electronic and computer science. Through this experience, I learned the power of collaboration and, at the same time, the difficulty of facilitating collaboration effectively. Especially, I found that the key issues exist in sharing software and hardware skills among different background people and in increasing users’ engagement and contribution. Since then, I have had a strong interest in this issue and decided to do research from the viewpoints of social science and human computer interaction.

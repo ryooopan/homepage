@@ -3,7 +3,9 @@ layout: page
 title: Projects
 ---
 
-### Cumiki [[Demo](http://cumiki.com/demo)]
+# Current Projects 
+
+### [Cumiki](/projects/cumiki) [[Demo](http://cumiki.com/demo)]
 
 Programming educational tool for GitHub code.
 Learning and teaching open source code with excerpting and assembling like LEGO blocks.
@@ -16,7 +18,7 @@ Learning and teaching open source code with excerpting and assembling like LEGO 
 ---
 
 
-### Interactive Video Tutorial
+### [Interactive Video Tutorial](/projects/ivt)
 
 Interactive Video Tutorial allows you to learn programming interactively.
 
@@ -24,7 +26,13 @@ Interactive Video Tutorial allows you to learn programming interactively.
 <iframe src="//player.vimeo.com/video/110672329" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
 
+<br><br>
+
 ---
+
+<br>
+
+# Previous Projects
 
 ### Information Visualization with D3.js [[Demo](http://graph.ryosuzuki.org)]
 
@@ -63,6 +71,15 @@ As exhibition of University of Tokyo, I and colleagues developed bicycle power g
 
 ---
 
+### Mitakalab [[Website](http://developer.mitakalab.com)]
+
+With coorporation of [University of Tokyo Center of Innovation](http://www.ducr.u-tokyo.ac.jp/en/), I launched Mitakalab community, which provides the place where everybody can learn to code and create innovation.
+
+![](/images/mitakalab.png)
+
+---
+
+
 ### NASA Space App Challenge [[Demo](http://craters.heroku.com)]
 
 I and colleagues joined the [International Space Apps Challenge](https://2012.spaceappschallenge.org/home/) and developed some application wchich utilize a lot of crator images provided by NASA. 
@@ -71,14 +88,6 @@ We were proudly honored as the prize winner by Japanese astrronaut Naoko Yamazak
 <div class="video-container">
 <iframe src="//player.vimeo.com/video/76111555" width="780" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
-
----
-
-### Mitakalab [[Website](http://developer.mitakalab.com)]
-
-With coorporation of [University of Tokyo Center of Innovation](http://www.ducr.u-tokyo.ac.jp/en/), I launched Mitakalab community, which provides the place where everybody can learn to code and create innovation.
-
-![](/images/mitakalab.png)
 
 ---
 

@@ -71,6 +71,15 @@ As exhibition of University of Tokyo, I and colleagues developed bicycle power g
 
 ---
 
+### Automated Plant Watering
+
+This is an automated watering device with remote monitoring of plant moisture levels, one of the projects developed in Mitakalab.
+This was built with a combination of different technologies such as Arduino, Node.js, WebSocket, as well as agricultural knowledge.
+
+![](/images/water.png)
+
+---
+
 ### Mitakalab [[Website](http://developer.mitakalab.com)]
 
 With coorporation of [University of Tokyo Center of Innovation](http://www.ducr.u-tokyo.ac.jp/en/), I launched Mitakalab community, which provides the place where everybody can learn to code and create innovation.

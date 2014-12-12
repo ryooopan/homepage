@@ -5,7 +5,7 @@ title: Research
 
 ### Research Papers
 
-"Network Thresholds and Multiple Equilibria in the Diffusion of Content-based Platforms.", 2014, WINE (Conference on Web and Internet Economics) at Beijing, China. [[abstract](/wine2014-abstract.pdf)] [[paper](/wine2014-full.pdf)]
+"Network Thresholds and Multiple Equilibria in the Diffusion of Content-based Platforms.", 2014, WINE (Conference on Web and Internet Economics) at Beijing, China. [[abstract](/wine2014-abstract.pdf)] [[paper](/wine2014.pdf)]
 
 "Diffusion Process and Take-off Conditions of the Online Platform", 2013, Microeconomic Policy Workshop at University of Tokyo. [[slide](/micro-workshop.pdf)]
 

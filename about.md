@@ -70,6 +70,6 @@ Japanese: Native
 
 ### Contacts
 
-Tweet at [@ryooopan](http://twitter.com/ryooopan) and read my code on [GitHub](http://github.com/ryooopan).
+Tweet at [@ryooopan](http://twitter.com/ryooopan) and read my code on [GitHub](http://github.com/ryosuzukii).
 You can also find my resume on [LinkedIn](https://www.linkedin.com/in/ryosuzuki) and contact via [Facebook](https://facebook.com/ryooopan).
 

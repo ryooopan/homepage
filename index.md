@@ -19,8 +19,6 @@ Email: 1253852881 [at] mail.ecc.u-tokyo.ac.jp
 
 Human Computer Interaction (HCI), Computer Supported Corperative Work (CSCW), Programming Education, Open Source Collaboration, Social Networks, Game Theory
 
-You can see 5 minutes research introduction video in the below.
-
 <!--
 <div class="video-container">
 <iframe width="853" height="480" src="//www.youtube.com/embed/Tb3HL701QSQ" frameborder="0" allowfullscreen></iframe>

@@ -30,8 +30,6 @@ Human Computer Interaction (HCI), Computer Supported Corperative Work (CSCW), Pr
 
 <!--
 
----
-
 ### Recent Projects: Cumiki [[Demo](http://cumiki.com/demo)]
 
 Programming educational tool for GitHub code.

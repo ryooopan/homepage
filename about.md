@@ -70,6 +70,6 @@ Japanese: Native
 
 ### Contacts
 
-Tweet at [@ryosuzk](http://twitter.com/ryosuzk) and read my code on [GitHub](http://github.com/ryosuzukii).
+Tweet at [@ryosuzk](http://twitter.com/ryosuzk) and read my code on [GitHub](http://github.com/ryosuzuki).
 You can also find my resume on [LinkedIn](https://www.linkedin.com/in/ryosuzuki) and contact via [Facebook](https://facebook.com/ryosuzk).
 

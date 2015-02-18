@@ -17,7 +17,9 @@ title: Research
 
 ---
 
-### Working Papers
+### Workshop Papers
+
+"Collaborative Annotation: Sharing the Knowledge with Crowds of Developers", 2015, CHI at Seoul, Korea
 
 "Incentive Structure on Open Source Software Community: Case Study of GitHub", 2014, Working Paper. [[paper](/working-paper.pdf)]
 

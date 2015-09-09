@@ -4,7 +4,7 @@ layout: index
 
 ### Profile
 
-**Update:** This summer, I'll go to [**Stanford University**](http://cs.stanford.edu/), [**HCI Group**](http://hci.stanford.edu/) for  summer research assistantship intern, and work with Prof. [**Michael Bernstein**](http://hci.stanford.edu/msb/).
+**Update:** This summer, I'll work at [**Stanford University**](http://cs.stanford.edu/), [**HCI Group**](http://hci.stanford.edu/) as research assistantship with Prof. [**Michael Bernstein**](http://hci.stanford.edu/msb/).
 
 </br>
 
@@ -37,7 +37,15 @@ Twitter: [@ryosuzk](https://twitter.com/ryosuzk) , GitHub: [https://github.com/r
 
 ### Research Topics
 
-Human-Computer Interaction, Collaborative Learning, Programming Education, Open Source Collaboration, Social Networks, Game Theory
+Human-Computer Interaction, Personal Fabrication, 3D Printing, Prototyping Toolkit, Collaborative Learning, Human Computation
+
+---
+
+
+### Contacts
+
+Tweet at [@ryosuzk](http://twitter.com/ryosuzk) and read my code on [GitHub](http://github.com/ryosuzuki).
+You can also find my resume on [LinkedIn](https://www.linkedin.com/in/ryosuzuki) and contact via [Facebook](https://facebook.com/ryosuzk).
 
 ---
 

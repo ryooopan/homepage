@@ -13,8 +13,6 @@ links:
     url:          /projects
   - name:         Research
     url:          /research
-  - name:         About
-    url:          /about
   - name:         CV/Resume
     url:          /cv.pdf
     external:     true

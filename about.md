@@ -22,7 +22,7 @@ In order to facilitate learning programming, I developed Cumiki, which allows yo
 
 ### Education
 
-Ph.D in Economics, University of Tokyo, 2013 - Present 
+Ph.D in Computer Science, University of Colorado Boulder, 2015
 
 M.A in Economics, University of Tokyo, 2011 - 2013
 
@@ -35,7 +35,7 @@ B.S in Engineering, Tokyo Institute of Technology, 2007 - 2011
 
 CTO at [Dada, Inc](http://dadainc.jp), August 2012 - March 2013
 
-Software Engineer at [Howtelevision, Inc](http://howtelevision.co.jp), December 2011 - March 2013 
+Software Engineer at [Howtelevision, Inc](http://howtelevision.co.jp), December 2011 - March 2013
 
 T.A. of Microeconomic Policy for Prof. Dan Sasaki, Fall 2012
 
@@ -63,7 +63,7 @@ Tools: Git, Emacs
 
 English: TOEFL iBT 100 (September, 2014)
 
-Japanese: Native 
+Japanese: Native
 
 
 ---

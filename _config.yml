@@ -13,9 +13,6 @@ links:
     url:          /projects
   - name:         Research
     url:          /research
-  - name:         CV/Resume
-    url:          /cv.pdf
-    external:     true
 highlighter:      pygments
 permalink:        pretty
 markdown:         redcarpet

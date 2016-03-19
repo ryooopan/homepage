@@ -8,7 +8,7 @@ layout: index
 
 Our paper for [CHI 2016](https://chi2016.acm.org/wp/) has been accepted.
 
-I will serve a web and social media chair for [UIST 2016](http://uist.acm.org/uist2016/)
+I will serve as a web and social media chair for [UIST 2016](http://uist.acm.org/uist2016/)
 
 </br>
 

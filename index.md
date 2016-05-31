@@ -44,19 +44,19 @@ I am a Ph.D. student in Computer Science at [**University of Colorado Boulder**]
 ### Research Experience
 
 May, 2016 --- Current <br>
-**UC Berkeley**, [**BiD Lab**](http://bid.berkeley.edu/), working with [**Bjoern Hartmann**](http://people.eecs.berkeley.edu/~bjoern/)
+**UC Berkeley** [**BiD Lab**](http://bid.berkeley.edu/), working with [**Bjoern Hartmann**](http://people.eecs.berkeley.edu/~bjoern/)
 
 August, 2015 --- Current <br>
-**University of Colorado Bouldeer**, working with [**Tom Yeh**](http://tomyeh.info/) and [**Mark D. Gross**](http://mdgross.net/)
+**CU Boulder**, [**HCC Group**](http://hcc.colorado.edu/), working with [**Tom Yeh**](http://tomyeh.info/) and [**Mark D. Gross**](http://mdgross.net/)
 
 May, 2015 --- August, 2015 <br>
-**Stanford University** [**HCI Group**](http://hci.stanford.edu/), working with [**Michael Bernstein**](http://people.eecs.berkeley.edu/~bjoern/)
+**Stanford University**, [**HCI Group**](http://hci.stanford.edu/), working with [**Michael Bernstein**](http://people.eecs.berkeley.edu/~bjoern/)
 
 October, 2014 --- May, 2015 <br>
-**University of Tokyo** [**IIS Lab**](http://iis-lab.org/), working with [**Koji Yatani**](http://yatani.jp/)
+**University of Tokyo**, [**IIS Lab**](http://iis-lab.org/), working with [**Koji Yatani**](http://yatani.jp/)
 
 December, 2014 --- March, 2015 <br>
-**AIST** [**Media Interaction Group**](https://staff.aist.go.jp/m.goto/MIG/index-j.html), working with [**Jun Kato**](http://junkato.jp/)
+**AIST**, [**Media Interaction Group**](https://staff.aist.go.jp/m.goto/MIG/index-j.html), working with [**Jun Kato**](http://junkato.jp/)
 
 
 ---

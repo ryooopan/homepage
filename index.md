@@ -27,6 +27,8 @@ I am a Ph.D. student in Computer Science at [**University of Colorado Boulder**]
 
 [**CHI'16**](https://chi2016.acm.org/wp/): **Atelier: Repurposing Expert Crowdsourcing Tasks as Micro-internships.**, **Ryo Suzuki**, Niloufar Salehi, Michelle S. Lam, Juan C. Marroquin, and Michael S. Bernstein. [[PDF]](http://hci.stanford.edu/publications/2016/atelier/atelier_2016.pdf)
 
+<iframe width="640" height="360" src="https://www.youtube.com/embed/tBojZejtFQo" frameborder="0" allowfullscreen></iframe>
+
 
 
 
@@ -62,7 +64,7 @@ December, 2014 --- March, 2015 <br>
 ---
 
 
-### Research Topics
+### Research Interest
 
 My main research interest is in **Human-Computer Interaction (HCI)**.
 More specifically: Design Tools for Personal Fabrication, 3D Printing, Prototyping Toolkit, Online Learning

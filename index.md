@@ -33,7 +33,7 @@ I am a Ph.D. student in Computer Science at [**University of Colorado Boulder**]
 
 [**UIST'15**](http://uist.acm.org/uist2015/about) Poster: **Daemo: a Self-Governed Crowdsourcing Marketplace**. [[PDF]](http://hci.stanford.edu/publications/2015/crowdresearch/daemo-uist.pdf)
 
-[**CHI'15**](http://chi2015.acm.org/) Workshop Paper: **Toward a Community Enhanced Programming Education** [[Workshop Website]](http://hci.tokyo/)
+[**CHI'15**](http://chi2015.acm.org/) Workshop Paper: **Toward a Community Enhanced Programming Education**.  [[PDF]](/publications/chi-2015.pdf) [[Workshop Website]](http://hci.tokyo/)
 
 [**ICSE'15**](http://2015.icse-conferences.org/) Poster: **Interactive and Collaborative Source Code Annotation**. [[PDF]](/publications/icse-2015.pdf)
 

@@ -30,7 +30,7 @@ I am a Ph.D. student in Computer Science at [**University of Colorado Boulder**]
 
 
 
-#### Work in Progress
+### Work in Progress
 
 [**UIST'15**](http://uist.acm.org/uist2015/about) Poster: **Daemo: a Self-Governed Crowdsourcing Marketplace**. [[PDF]](http://hci.stanford.edu/publications/2015/crowdresearch/daemo-uist.pdf)
 

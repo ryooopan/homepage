@@ -13,11 +13,11 @@ I am a Ph.D. student in Computer Science at [**University of Colorado Boulder**]
 
 ### Recent Update:
 
-2016-05-23: I'll be working at UC Berkeley this summer with [**Bjoern Hartmann**](http://people.eecs.berkeley.edu/~bjoern/)
+2016-05-23: I'll be working at **UC Berkeley** with [**Bjoern Hartmann**](http://people.eecs.berkeley.edu/~bjoern/) as summer research intern.
 
-2016-01-15: Our paper for [CHI 2016](https://chi2016.acm.org/wp/) has been accepted.
+2016-01-15: Our paper for [**CHI 2016**](https://chi2016.acm.org/wp/) has been accepted.
 
-2015-10-01: I will serve as a web and social media chair for [UIST 2016](http://uist.acm.org/uist2016/)
+2015-10-01: I will serve as a web and social media chair for [**UIST 2016**](http://uist.acm.org/uist2016/)
 
 
 
@@ -64,7 +64,7 @@ December, 2014 --- March, 2015 <br>
 ### Research Interest
 
 My main research interest is in **Human-Computer Interaction (HCI)**.
-More specifically: Design Tools for Personal Fabrication, 3D Printing, Prototyping Toolkit, Online Learning
+More specifically: Design Tools, Personal Fabrication, 3D Printing, Prototyping Toolkit, Online Learning
 
 ---
 

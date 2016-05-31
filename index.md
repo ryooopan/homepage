@@ -2,40 +2,30 @@
 layout: index
 ---
 
-### Profile
-
-**Update:**
-
-* 2016-05-23: I'll be working at UC Berkeley this summer with [**Bjoern Hartmann**](http://people.eecs.berkeley.edu/~bjoern/)
-
-* 2016-01-15: Our paper for [CHI 2016](https://chi2016.acm.org/wp/) has been accepted.
-
-* 2015-10-01: I will serve as a web and social media chair for [UIST 2016](http://uist.acm.org/uist2016/)
-
-
-
-</br>
+### Profile:
 
 My name is Ryo Suzuki.
 I am a Ph.D. student in Computer Science at [**University of Colorado Boulder**](http://www.colorado.edu/cs/), [**Human-Centered Computing lab**](http://hcc.colorado.edu/), working with with Prof. [**Tom Yeh**](http://tomyeh.info/) and Prof. [**Mark Gross**](http://mdgross.net/).
 
-Formerly, I was at [**University of Tokyo**](http://www.u-tokyo.ac.jp/en/), and working with Prof. [**Koji Yatani**](http://yatani.jp/) at [**IIS Lab**](http://iis-lab.org/).
-I received my B.Eng from Tokyo Institute of Technology, and M.A from University of Tokyo.
-
-My main research interest is in **Human-Computer Interaction (HCI)**.
-I am particularly interested in user interface design for collaborative learning, prototyping toolkit for personal fabrication, and social networks of open source communities.
 
 
-Email: ryo.suzuki@colorado.edu
+### Recent Update:
 
-Twitter: [@ryosuzk](https://twitter.com/ryosuzk) , GitHub: [https://github.com/ryosuzuki](https://github.com/ryosuzuki)
+2016-05-23: I'll be working at UC Berkeley this summer with [**Bjoern Hartmann**](http://people.eecs.berkeley.edu/~bjoern/)
+
+2016-01-15: Our paper for [CHI 2016](https://chi2016.acm.org/wp/) has been accepted.
+
+2015-10-01: I will serve as a web and social media chair for [UIST 2016](http://uist.acm.org/uist2016/)
+
 
 
 ---
 
-### Recent Papers
+### Papers
 
 [**CHI'16**](https://chi2016.acm.org/wp/): **Atelier: Repurposing Expert Crowdsourcing Tasks as Micro-internships.**, **Ryo Suzuki**, Niloufar Salehi, Michelle S. Lam, Juan C. Marroquin, and Michael S. Bernstein. [[PDF]](http://hci.stanford.edu/publications/2016/atelier/atelier_2016.pdf)
+
+
 
 
 ### Work in Progress
@@ -48,17 +38,33 @@ Twitter: [@ryosuzk](https://twitter.com/ryosuzk) , GitHub: [https://github.com/r
 
 ---
 
+
+### Research Experience
+
+May, 2016 --- **UC Berkeley**, working with [**Bjoern Hartmann**](http://people.eecs.berkeley.edu/~bjoern/)
+
+May, 2015 --- August, 2015 **Stanford University** [**HCI Group**](http://hci.stanford.edu/), working with [**Michael Bernstein**](http://people.eecs.berkeley.edu/~bjoern/)
+
+October, 2014 --- May, 2015 [**University of Tokyo**](http://www.u-tokyo.ac.jp/en/) [**IIS Lab**](http://iis-lab.org/), working with [**Koji Yatani**](http://yatani.jp/)
+
+December, 2014 --- March, 2015 [**AIST**](http://www.aist.go.jp/index_en.html) [**Media Interaction Group**](https://staff.aist.go.jp/m.goto/MIG/index-j.html), working with [**Jun Kato**](http://junkato.jp/)
+
+
+
+
 ### Research Topics
 
-Human-Computer Interaction, Personal Fabrication, 3D Printing, Prototyping Toolkit, Collaborative Learning, Human Computation
+My main research interest is in **Human-Computer Interaction (HCI)**.
+More specifically: Design Tools for Personal Fabrication, 3D Printing, Prototyping Toolkit, Online Learning
 
 ---
 
 
 ### Contacts
 
-Tweet at [@ryosuzk](http://twitter.com/ryosuzk) and read my code on [GitHub](http://github.com/ryosuzuki).
-You can also find my resume on [LinkedIn](https://www.linkedin.com/in/ryosuzuki) and contact via [Facebook](https://facebook.com/ryosuzk).
+Email: ryo.suzuki@colorado.edu
+
+Twitter: [@ryosuzk](https://twitter.com/ryosuzk) , GitHub: [https://github.com/ryosuzuki](https://github.com/ryosuzuki),  [LinkedIn](https://www.linkedin.com/in/ryosuzuki) and [Facebook](https://facebook.com/ryosuzk).
 
 ---
 

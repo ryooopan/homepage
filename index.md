@@ -5,7 +5,7 @@ layout: index
 ### Profile
 
 My name is **Ryo Suzuki**.
-I am a Ph.D. student in Computer Science at the [**University of Colorado Boulder**](http://www.colorado.edu/cs/), [**Human-Centered Computing lab**](http://hcc.colorado.edu/), working with [**Tom Yeh**](http://tomyeh.info/) and [**Mark D. Gross**](http://mdgross.net/).
+I am a Ph.D. student in Computer Science at [**University of Colorado Boulder**](http://www.colorado.edu/cs/), [**Human-Centered Computing lab**](http://hcc.colorado.edu/), working with [**Tom Yeh**](http://tomyeh.info/) and [**Mark D. Gross**](http://mdgross.net/).
 
 
 ---

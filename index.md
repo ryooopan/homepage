@@ -31,7 +31,7 @@ Twitter: [@ryosuzk](https://twitter.com/ryosuzk) , GitHub: [https://github.com/r
 
 ### Recent Updates
 
-[2015-01-15] Our [**CHI'16**](https://chi2016.acm.org/wp/) full paper has been accepted. The title is **Atelier: Repurposing Expert Crowdsourcing Tasks as Micro-internships.**, which is collaborative work with Niloufar Salehi, Michelle S. Lam, Juan C. Marroquin, and Michael S. Bernstein.
+[2015-01-15] Our [**CHI'16**](https://chi2016.acm.org/wp/) full paper has been accepted. The title is **Atelier: Repurposing Expert Crowdsourcing Tasks as Micro-internships.**, which is collaborative work with Niloufar Salehi, Michelle S. Lam, Juan C. Marroquin, and Michael S. Bernstein. [[PDF]](http://hci.stanford.edu/publications/2016/atelier/atelier_2016.pdf)
 
 [2015-08-01] Our [**UIST'15**](http://uist.acm.org/uist2015/about) poster has been accepted. The title is **Daemo: a Self-Governed Crowdsourcing Marketplace**. [[PDF]](http://hci.stanford.edu/publications/2015/crowdresearch/daemo-uist.pdf)
 

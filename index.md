@@ -44,10 +44,10 @@ I am a Ph.D. student in Computer Science at [**University of Colorado Boulder**]
 ### Research Experience
 
 May, 2016 --- Current <br>
-**University of California, Berkeley** [**BiD Lab**](http://bid.berkeley.edu/), working with [**Bjoern Hartmann**](http://people.eecs.berkeley.edu/~bjoern/)
+**UC Berkeley** [**BiD Lab**](http://bid.berkeley.edu/), working with [**Bjoern Hartmann**](http://people.eecs.berkeley.edu/~bjoern/)
 
 August, 2015 --- Current <br>
-**University of Colorado Boulder**, [**HCC Group**](http://hcc.colorado.edu/), working with [**Tom Yeh**](http://tomyeh.info/) and [**Mark D. Gross**](http://mdgross.net/)
+**CU Boulder**, [**HCC Group**](http://hcc.colorado.edu/), working with [**Tom Yeh**](http://tomyeh.info/) and [**Mark D. Gross**](http://mdgross.net/)
 
 May, 2015 --- August, 2015 <br>
 **Stanford University**, [**HCI Group**](http://hci.stanford.edu/), working with [**Michael Bernstein**](http://people.eecs.berkeley.edu/~bjoern/)

@@ -25,12 +25,9 @@ I am a Ph.D. student in Computer Science at [**University of Colorado Boulder**]
 
 ### Papers
 
-[**CHI'16**](https://chi2016.acm.org/wp/): **Atelier: Repurposing Expert Crowdsourcing Tasks as Micro-internships.**, **Ryo Suzuki**, Niloufar Salehi, Michelle S. Lam, Juan C. Marroquin, and Michael S. Bernstein. [[PDF]](http://hci.stanford.edu/publications/2016/atelier/atelier_2016.pdf)
+[**CHI'16**](https://chi2016.acm.org/wp/): **Atelier: Repurposing Expert Crowdsourcing Tasks as Micro-internships.**, **Ryo Suzuki**, Niloufar Salehi, Michelle S. Lam, Juan C. Marroquin, and Michael S. Bernstein. [[PDF]](http://hci.stanford.edu/publications/2016/atelier/atelier_2016.pdf) [[Video Preview](https://youtu.be/tBojZejtFQo)
 
-<iframe width="500" height="300" src="https://www.youtube.com/embed/tBojZejtFQo" frameborder="0" allowfullscreen></iframe>
-
-
-
+-
 
 ### Work in Progress
 

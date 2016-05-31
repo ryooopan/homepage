@@ -13,7 +13,7 @@ I am a Ph.D. student in Computer Science at [**University of Colorado Boulder**]
 
 ### Recent Update:
 
-2016-05-23: I'll be working at **UC Berkeley** with [**Bjoern Hartmann**](http://people.eecs.berkeley.edu/~bjoern/) as summer research intern.
+2016-05-23: I'll be working at **UC Berkeley** with [**Bjoern Hartmann**](http://people.eecs.berkeley.edu/~bjoern/) this summer.
 
 2016-01-15: Our paper for [**CHI 2016**](https://chi2016.acm.org/wp/) has been accepted.
 
@@ -25,17 +25,17 @@ I am a Ph.D. student in Computer Science at [**University of Colorado Boulder**]
 
 ### Papers
 
-[**CHI'16**](https://chi2016.acm.org/wp/): **Atelier: Repurposing Expert Crowdsourcing Tasks as Micro-internships.**, **Ryo Suzuki**, Niloufar Salehi, Michelle S. Lam, Juan C. Marroquin, and Michael S. Bernstein. [[PDF]](http://hci.stanford.edu/publications/2016/atelier/atelier_2016.pdf) [[Video Preview]](https://youtu.be/tBojZejtFQo)
+[**CHI'16**](https://chi2016.acm.org/wp/): [**Atelier: Repurposing Expert Crowdsourcing Tasks as Micro-internships**](http://hci.stanford.edu/publications/2016/atelier/atelier_2016.pdf)., **Ryo Suzuki**, Niloufar Salehi, Michelle S. Lam, Juan C. Marroquin, and Michael S. Bernstein. [[PDF]](http://hci.stanford.edu/publications/2016/atelier/atelier_2016.pdf) [[Video Preview]](https://youtu.be/tBojZejtFQo)
 
 -
 
 ### Work in Progress
 
-[**UIST'15**](http://uist.acm.org/uist2015/about) Poster: **Daemo: a Self-Governed Crowdsourcing Marketplace**. [[PDF]](http://hci.stanford.edu/publications/2015/crowdresearch/daemo-uist.pdf)
+[**UIST'15**](http://uist.acm.org/uist2015/about) Poster: [**Daemo: a Self-Governed Crowdsourcing Marketplace**](http://hci.stanford.edu/publications/2015/crowdresearch/daemo-uist.pdf). [[PDF]](http://hci.stanford.edu/publications/2015/crowdresearch/daemo-uist.pdf)
 
-[**CHI'15**](http://chi2015.acm.org/) Workshop Paper: **Toward a Community Enhanced Programming Education**. [[PDF]](/publications/chi-2015.pdf) [[Workshop Website]](http://hci.tokyo/)
+[**CHI'15**](http://chi2015.acm.org/) Workshop Paper: [**Toward a Community Enhanced Programming Education**](/publications/chi-2015.pdf). [[PDF]](/publications/chi-2015.pdf) [[Workshop Website]](http://hci.tokyo/)
 
-[**ICSE'15**](http://2015.icse-conferences.org/) Poster: **Interactive and Collaborative Source Code Annotation**. [[PDF]](/publications/icse-2015.pdf)
+[**ICSE'15**](http://2015.icse-conferences.org/) Poster: [**Interactive and Collaborative Source Code Annotation**](/publications/icse-2015.pdf). [[PDF]](/publications/icse-2015.pdf)
 
 ---
 
@@ -43,7 +43,7 @@ I am a Ph.D. student in Computer Science at [**University of Colorado Boulder**]
 ### Research Experience
 
 May, 2016 --- Current <br>
-**UC Berkeley** [**BiD Lab**](http://bid.berkeley.edu/), working with [**Bjoern Hartmann**](http://people.eecs.berkeley.edu/~bjoern/)
+**UC Berkeley**, [**BiD Lab**](http://bid.berkeley.edu/), working with [**Bjoern Hartmann**](http://people.eecs.berkeley.edu/~bjoern/)
 
 August, 2015 --- Current <br>
 **CU Boulder**, [**HCC Group**](http://hcc.colorado.edu/), working with [**Tom Yeh**](http://tomyeh.info/) and [**Mark D. Gross**](http://mdgross.net/)

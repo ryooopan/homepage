@@ -2,7 +2,7 @@
 layout: index
 ---
 
-### Profile:
+### Profile
 
 My name is Ryo Suzuki.
 I am a Ph.D. student in Computer Science at [**University of Colorado Boulder**](http://www.colorado.edu/cs/), [**Human-Centered Computing lab**](http://hcc.colorado.edu/), working with [**Tom Yeh**](http://tomyeh.info/) and [**Mark D. Gross**](http://mdgross.net/).
@@ -11,7 +11,7 @@ I am a Ph.D. student in Computer Science at [**University of Colorado Boulder**]
 ---
 
 
-### Recent Update:
+### Recent Updates
 
 2016-05-23: I'll be working at **UC Berkeley** with [**Bjoern Hartmann**](http://people.eecs.berkeley.edu/~bjoern/) this summer.
 

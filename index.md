@@ -25,7 +25,7 @@ I am a Ph.D. student in Computer Science at [**University of Colorado Boulder**]
 
 ### Papers
 
-[**CHI'16**](https://chi2016.acm.org/wp/): **Atelier: Repurposing Expert Crowdsourcing Tasks as Micro-internships.**, **Ryo Suzuki**, Niloufar Salehi, Michelle S. Lam, Juan C. Marroquin, and Michael S. Bernstein. [[PDF]](http://hci.stanford.edu/publications/2016/atelier/atelier_2016.pdf) [[Video Preview](https://youtu.be/tBojZejtFQo)
+[**CHI'16**](https://chi2016.acm.org/wp/): **Atelier: Repurposing Expert Crowdsourcing Tasks as Micro-internships.**, **Ryo Suzuki**, Niloufar Salehi, Michelle S. Lam, Juan C. Marroquin, and Michael S. Bernstein. [[PDF]](http://hci.stanford.edu/publications/2016/atelier/atelier_2016.pdf) [[Video Preview]](https://youtu.be/tBojZejtFQo)
 
 -
 
@@ -33,7 +33,7 @@ I am a Ph.D. student in Computer Science at [**University of Colorado Boulder**]
 
 [**UIST'15**](http://uist.acm.org/uist2015/about) Poster: **Daemo: a Self-Governed Crowdsourcing Marketplace**. [[PDF]](http://hci.stanford.edu/publications/2015/crowdresearch/daemo-uist.pdf)
 
-[**CHI'15**](http://chi2015.acm.org/) Workshop Paper: The title is **Toward a Community Enhanced Programming Education**. [[PDF]](/publications/chi-2015.pdf) [[Workshop Website]](http://hci.tokyo/)
+[**CHI'15**](http://chi2015.acm.org/) Workshop Paper: **Toward a Community Enhanced Programming Education**. [[PDF]](/publications/chi-2015.pdf) [[Workshop Website]](http://hci.tokyo/)
 
 [**ICSE'15**](http://2015.icse-conferences.org/) Poster: **Interactive and Collaborative Source Code Annotation**. [[PDF]](/publications/icse-2015.pdf)
 
@@ -73,7 +73,7 @@ More specifically: Design Tools for Personal Fabrication, 3D Printing, Prototypi
 
 Email: ryo.suzuki@colorado.edu
 
-Twitter: [@ryosuzk](https://twitter.com/ryosuzk) , GitHub: [https://github.com/ryosuzuki](https://github.com/ryosuzuki),  [LinkedIn](https://www.linkedin.com/in/ryosuzuki) and [Facebook](https://facebook.com/ryosuzk).
+Twitter: [@ryosuzk](https://twitter.com/ryosuzk) , GitHub: [https://github.com/ryosuzuki](https://github.com/ryosuzuki),  LinkedIn: [https://www.linkedin.com/in/ryosuzuki](https://www.linkedin.com/in/ryosuzuki), Facebook: [ryosuzk](https://facebook.com/ryosuzk)
 
 ---
 

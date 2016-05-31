@@ -6,14 +6,16 @@ layout: index
 
 **Update:**
 
-Our paper for [CHI 2016](https://chi2016.acm.org/wp/) has been accepted.
+* 2016/05: I'll be working at UC Berkeley this summer with [**Bjoern Hartmann**](http://people.eecs.berkeley.edu/~bjoern/)
 
-I will serve as a web and social media chair for [UIST 2016](http://uist.acm.org/uist2016/)
+* 2016/05: Our paper for [CHI 2016](https://chi2016.acm.org/wp/) has been accepted.
+
+* 2015/10: I will serve as a web and social media chair for [UIST 2016](http://uist.acm.org/uist2016/)
 
 </br>
 
 My name is Ryo Suzuki.
-I am currently a Ph.D in Computer Science at [**University of Colorado Boulder**](http://www.colorado.edu/cs/), [**Human-Centered Computing lab**](http://hcc.colorado.edu/), and work with Prof. [**Tom Yeh**](http://tomyeh.info/).
+I am a Ph.D. student in Computer Science at [**University of Colorado Boulder**](http://www.colorado.edu/cs/), [**Human-Centered Computing lab**](http://hcc.colorado.edu/), working with with Prof. [**Tom Yeh**](http://tomyeh.info/) and Prof. [**Mark Gross**](http://mdgross.net/).
 
 Formerly, I was at [**University of Tokyo**](http://www.u-tokyo.ac.jp/en/), and working with Prof. [**Koji Yatani**](http://yatani.jp/) at [**IIS Lab**](http://iis-lab.org/).
 I received my B.Eng from Tokyo Institute of Technology, and M.A from University of Tokyo.

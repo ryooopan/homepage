@@ -6,11 +6,13 @@ layout: index
 
 **Update:**
 
-* 2016/05: I'll be working at UC Berkeley this summer with [**Bjoern Hartmann**](http://people.eecs.berkeley.edu/~bjoern/)
+* 2016-05-23: I'll be working at UC Berkeley this summer with [**Bjoern Hartmann**](http://people.eecs.berkeley.edu/~bjoern/)
 
-* 2016/05: Our paper for [CHI 2016](https://chi2016.acm.org/wp/) has been accepted.
+* 2016-01-15: Our paper for [CHI 2016](https://chi2016.acm.org/wp/) has been accepted.
 
-* 2015/10: I will serve as a web and social media chair for [UIST 2016](http://uist.acm.org/uist2016/)
+* 2015-10-01: I will serve as a web and social media chair for [UIST 2016](http://uist.acm.org/uist2016/)
+
+
 
 </br>
 
@@ -31,15 +33,18 @@ Twitter: [@ryosuzk](https://twitter.com/ryosuzk) , GitHub: [https://github.com/r
 
 ---
 
-### Recent Updates
+### Recent Papers
 
-[2015-01-15] Our [**CHI'16**](https://chi2016.acm.org/wp/) full paper has been accepted. The title is **Atelier: Repurposing Expert Crowdsourcing Tasks as Micro-internships.**, which is collaborative work with Niloufar Salehi, Michelle S. Lam, Juan C. Marroquin, and Michael S. Bernstein. [[PDF]](http://hci.stanford.edu/publications/2016/atelier/atelier_2016.pdf)
+[**CHI'16**](https://chi2016.acm.org/wp/): **Atelier: Repurposing Expert Crowdsourcing Tasks as Micro-internships.**, **Ryo Suzuki**, Niloufar Salehi, Michelle S. Lam, Juan C. Marroquin, and Michael S. Bernstein. [[PDF]](http://hci.stanford.edu/publications/2016/atelier/atelier_2016.pdf)
 
-[2015-08-01] Our [**UIST'15**](http://uist.acm.org/uist2015/about) poster has been accepted. The title is **Daemo: a Self-Governed Crowdsourcing Marketplace**. [[PDF]](http://hci.stanford.edu/publications/2015/crowdresearch/daemo-uist.pdf)
 
-[2015-04-18] Going to [**CHI'15**](http://chi2015.acm.org/) and giving an interactive presentation at [Workshop Symposium](http://hci.tokyo/). The title is **Toward a Community Enhanced Programming Education**. [[PDF]](/publications/chi-2015.pdf)
+### Work in Progress
 
-[2015-05-20] Accepted the poster at [**ICSE'15**](http://2015.icse-conferences.org/). The title is **Interactive and Collaborative Source Code Annotation**. [[PDF]](/publications/icse-2015.pdf)
+[**UIST'15**](http://uist.acm.org/uist2015/about) Poster: **Daemo: a Self-Governed Crowdsourcing Marketplace**. [[PDF]](http://hci.stanford.edu/publications/2015/crowdresearch/daemo-uist.pdf)
+
+[**CHI'15**](http://chi2015.acm.org/) Workshop Paper: The title is **Toward a Community Enhanced Programming Education**. [[PDF]](/publications/chi-2015.pdf) [[Workshop Website]](http://hci.tokyo/)
+
+[**ICSE'15**](http://2015.icse-conferences.org/) Poster: **Interactive and Collaborative Source Code Annotation**. [[PDF]](/publications/icse-2015.pdf)
 
 ---
 

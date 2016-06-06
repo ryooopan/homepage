@@ -13,7 +13,11 @@ I am a Ph.D. student in Computer Science at [**University of Colorado Boulder**]
 
 ### Recent Updates
 
-2016-05-23: I'll be working at **UC Berkeley** with [**Bjoern Hartmann**](http://people.eecs.berkeley.edu/~bjoern/) this summer.
+2016-05-23: I'll be working at [**UC Berkeley**](http://bid.berkeley.edu/) with [**Bjoern Hartmann**](http://people.eecs.berkeley.edu/~bjoern/) this summer.
+
+2016-05-10: I and [**Niloufar**](http://stanford.edu/~niloufar/) present [**Atelier**](http://hci.stanford.edu/publications/2016/atelier/atelier_2016.pdf) at CHI'16. Here is the [**slide**](/publications/chi-2016-slide.pdf).
+Our work is also featured in the [**media**](https://backchannel.com/its-not-just-robots-skilled-jobs-are-going-to-meatware-954adf770710).
+
 
 2016-01-15: Our paper for [**CHI 2016**](https://chi2016.acm.org/wp/) has been accepted.
 
@@ -25,7 +29,7 @@ I am a Ph.D. student in Computer Science at [**University of Colorado Boulder**]
 
 ### Papers
 
-[**CHI'16**](https://chi2016.acm.org/wp/): **Atelier: Repurposing Expert Crowdsourcing Tasks as Micro-internships**., **Ryo Suzuki**, Niloufar Salehi, Michelle S. Lam, Juan C. Marroquin, and Michael S. Bernstein. [[PDF]](http://hci.stanford.edu/publications/2016/atelier/atelier_2016.pdf) [[Video Preview]](https://youtu.be/tBojZejtFQo)
+[**CHI'16**](https://chi2016.acm.org/wp/): **Atelier: Repurposing Expert Crowdsourcing Tasks as Micro-internships**., **Ryo Suzuki**, Niloufar Salehi, Michelle S. Lam, Juan C. Marroquin, and Michael S. Bernstein. [[PDF]](http://hci.stanford.edu/publications/2016/atelier/atelier_2016.pdf) [[Video Preview]](https://youtu.be/tBojZejtFQo) [[Slide]](/publications/chi-2016-slide.pdf)
 
 -
 

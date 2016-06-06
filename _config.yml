@@ -14,7 +14,7 @@ links:
   - name:         Research
     url:          /research
   - name:         CV/Resume
-    url:          /cv.pdf
+    url:          /cv/cv.pdf
     external:     true
 highlighter:      pygments
 permalink:        pretty

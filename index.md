@@ -29,17 +29,21 @@ Our work is also featured in the [**media**](https://backchannel.com/its-not-jus
 
 ### Papers
 
-[**CHI'16**](https://chi2016.acm.org/wp/): [**Atelier: Repurposing Expert Crowdsourcing Tasks as Micro-internships**](http://dl.acm.org/citation.cfm?id=2858121)., **Ryo Suzuki**, Niloufar Salehi, Michelle S. Lam, Juan C. Marroquin, and Michael S. Bernstein. [[PDF]](http://hci.stanford.edu/publications/2016/atelier/atelier_2016.pdf) [[Video Preview]](https://youtu.be/tBojZejtFQo) [[Slide]](/publications/chi-2016-slide.pdf)
+[**CHI'16**](https://chi2016.acm.org/wp/): [**Atelier: Repurposing Expert Crowdsourcing Tasks as Micro-internships**](http://dl.acm.org/citation.cfm?id=2858121) <br>
+**Ryo Suzuki**, Niloufar Salehi, Michelle S. Lam, Juan C. Marroquin, and Michael S. Bernstein. [[PDF]](http://hci.stanford.edu/publications/2016/atelier/atelier_2016.pdf) [[Video Preview]](https://youtu.be/tBojZejtFQo) [[Slide]](/publications/chi-2016-slide.pdf)
 
 -
 
 ### Work in Progress
 
-[**UIST'15**](http://uist.acm.org/uist2015/about) Poster: [**Daemo: a Self-Governed Crowdsourcing Marketplace**](http://dl.acm.org/citation.cfm?id=2815739). [[PDF]](http://hci.stanford.edu/publications/2015/crowdresearch/daemo-uist.pdf)
+[**UIST'15**](http://uist.acm.org/uist2015/about) Poster: <br>
+[**Daemo: a Self-Governed Crowdsourcing Marketplace**](http://dl.acm.org/citation.cfm?id=2815739). [[PDF]](http://hci.stanford.edu/publications/2015/crowdresearch/daemo-uist.pdf)
 
-[**CHI'15**](http://chi2015.acm.org/) Workshop Paper: **Toward a Community Enhanced Programming Education**.  [[PDF]](/publications/chi-2015.pdf) [[Workshop Website]](http://hci.tokyo/)
+[**CHI'15**](http://chi2015.acm.org/) Workshop Paper: <br>
+**Toward a Community Enhanced Programming Education**.  [[PDF]](/publications/chi-2015.pdf) [[Workshop Website]](http://hci.tokyo/)
 
-[**ICSE'15**](http://2015.icse-conferences.org/) Poster: [**Interactive and Collaborative Source Code Annotation**](http://dl.acm.org/citation.cfm?id=2819173). [[PDF]](/publications/icse-2015.pdf)
+[**ICSE'15**](http://2015.icse-conferences.org/) Poster: <br>
+[**Interactive and Collaborative Source Code Annotation**](http://dl.acm.org/citation.cfm?id=2819173). [[PDF]](/publications/icse-2015.pdf)
 
 ---
 

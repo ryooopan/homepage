@@ -35,11 +35,11 @@ Our work is also featured in the [**media**](https://backchannel.com/its-not-jus
 
 [**L@S'17**](http://learningatscale.acm.org/las2017/): **Writing Reusable Code Feedback at Scale with Mixed-Initiative Program Synthesis** (To appear)
 
-[**ICSE'17**](http://icse2017.gatech.edu/): **Learning Syntactic Program Transformations from Examples** <br>
+[**ICSE'17**](http://icse2017.gatech.edu/): [**Learning Syntactic Program Transformations from Examples**](https://arxiv.org/pdf/1608.09000.pdf) <br>
 Reudismam Rolim, Gustavo Soares, Loris D’Antoni, Oleksandr Polozov, Sumit Gulwani, Rohit Gheyi, **Ryo Suzuki**, and Bjoern Hartmann. [[arXiv]](https://arxiv.org/abs/1608.09000) (To appear)
 
-[**CHI'16**](https://chi2016.acm.org/wp/): [**Atelier: Repurposing Expert Crowdsourcing Tasks as Micro-internships**](http://dl.acm.org/citation.cfm?id=2858121) <br>
-**Ryo Suzuki**, Niloufar Salehi, Michelle S. Lam, Juan C. Marroquin, and Michael S. Bernstein. [[PDF]](http://hci.stanford.edu/publications/2016/atelier/atelier_2016.pdf) [[Video Preview]](https://youtu.be/tBojZejtFQo) [[Slide]](/publications/chi-2016-slide.pdf) [[arXiv]](https://arxiv.org/abs/1602.06634)
+[**CHI'16**](https://chi2016.acm.org/wp/): [**Atelier: Repurposing Expert Crowdsourcing Tasks as Micro-internships**](http://hci.stanford.edu/publications/2016/atelier/atelier_2016.pdf) <br>
+**Ryo Suzuki**, Niloufar Salehi, Michelle S. Lam, Juan C. Marroquin, and Michael S. Bernstein. [[PDF]](http://hci.stanford.edu/publications/2016/atelier/atelier_2016.pdf) [[Video Preview]](https://youtu.be/tBojZejtFQo) [[Slide]](/publications/chi-2016-slide.pdf) [[ACM DL]](http://dl.acm.org/citation.cfm?id=2858121) [[arXiv]](https://arxiv.org/abs/1602.06634)
 
 -
 

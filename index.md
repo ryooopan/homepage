@@ -33,9 +33,9 @@ Our work is also featured in the [**media**](https://backchannel.com/its-not-jus
 
 ### Papers
 
-[**L@S'17**](http://learningatscale.acm.org/las2017/): [**Writing Reusable Code Feedback at Scale with Mixed-Initiative Program Synthesis**] (To appear)
+[**L@S'17**](http://learningatscale.acm.org/las2017/): **Writing Reusable Code Feedback at Scale with Mixed-Initiative Program Synthesis** (To appear)
 
-[**ICSE'17**](http://icse2017.gatech.edu/): [**Learning Syntactic Program Transformations from Examples**] <br>
+[**ICSE'17**](http://icse2017.gatech.edu/): **Learning Syntactic Program Transformations from Examples** <br>
 Reudismam Rolim, Gustavo Soares, Loris D’Antoni, Oleksandr Polozov, Sumit Gulwani, Rohit Gheyi, **Ryo Suzuki**, and Bjoern Hartmann. [[arXiv]](https://arxiv.org/abs/1608.09000) (To appear)
 
 [**CHI'16**](https://chi2016.acm.org/wp/): [**Atelier: Repurposing Expert Crowdsourcing Tasks as Micro-internships**](http://dl.acm.org/citation.cfm?id=2858121) <br>

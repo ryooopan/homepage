@@ -49,7 +49,7 @@ Reudismam Rolim, Gustavo Soares, Loris D’Antoni, Oleksandr Polozov, Sumit Gulw
 
 ### Work in Progress
 
-[**CHI'17**](chi2017.acm.org) Late-Breaking Work: <br>
+[**CHI'17**](https://chi2017.acm.org/) Late-Breaking Work: <br>
 [**Exploring the Design Space of Automatically Synthesized Hints for Introductory Programming Assignments**](/publications/chi-2017.pdf)<br>
 **Ryo Suzuki**, Gustavo Soares, Elena Glassman, Andrew Head, Loris D’Antoni, Bjoern Hartmann.
 [[PDF]](/publications/chi-2017.pdf) [[ACM DL]](http://dl.acm.org/citation.cfm?id=3053187) [[Poster]](/publications/chi-2017-poster.pdf)

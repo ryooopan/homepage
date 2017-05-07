@@ -45,7 +45,7 @@ You can find more details about this project [here](https://techsportplay2016.wo
 
 ---
 
-### Object Recognition with Neural Netowrk
+### Object Recognition with CNN [[GitHub](https://github.com/ryosuzuki/CSCI-5722)]
 
 This is a class project for CSCI-5722 Computer Vision.
 I implemented an object recognition and classification with the CNN (Convolutional Neural Network) trained with the ImageNet dataset.
@@ -151,7 +151,7 @@ With coorporation of [University of Tokyo Center of Innovation](http://www.ducr.
 ---
 
 
-### NASA Space App Challenge [[Demo](http://craters.heroku.com)]
+### NASA Space App Challenge
 
 I and colleagues joined the [International Space Apps Challenge](https://2012.spaceappschallenge.org/home/) and developed some application wchich utilize a lot of crator images provided by NASA.
 We were proudly honored as the prize winner by Japanese astrronaut Naoko Yamazaki.
@@ -162,7 +162,7 @@ We were proudly honored as the prize winner by Japanese astrronaut Naoko Yamazak
 
 ---
 
-### Samenos [[Website](http://samenos.com)]
+### Samenos
 
 Samenos is an oline portfolio service for artists, illustrators, and designers.
 

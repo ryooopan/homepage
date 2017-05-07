@@ -4,8 +4,10 @@ layout: index
 
 ### Profile
 
-Hi, I'm Ryo Suzuki, a Ph.D. student in Computer Science at the [**University of Colorado Boulder**](http://www.colorado.edu/cs/), [**Human-Centered Computing lab**](http://hcc.colorado.edu/), working with [**Tom Yeh**](http://tomyeh.info/) and [**Mark D. Gross**](http://mdgross.net/).
+Hi, I'm Ryo Suzuki, a Ph.D. student in Computer Science at the [**University of Colorado Boulder**](http://www.colorado.edu/cs/), [Human-Centered Computing lab](http://hcc.colorado.edu/), working with [**Tom Yeh**](http://tomyeh.info/) and [**Mark D. Gross**](http://mdgross.net/).
 
+**Publications:**
+[<i class="fa fa-graduation-cap fa-fw"></i> Google Scholar](https://scholar.google.com/citations?user=klWjaQIAAAAJ)
 
 ---
 
@@ -136,7 +138,28 @@ Tohso Scholorship Fellowship, 2010
 
 I'm broadly interested in **Human-Computer Interaction (HCI)**, including Design Tools, Tangible Interface, 3D Printing, Accessibility, Programming Education, and Crowdsourcing.
 
+
 ---
+
+### Contacts
+Email: <a href="mailto:ryo.suzuki@colorado.edu">ryo.suzuki@colorado.edu</a>
+
+[<i class="fa fa-twitter fa-fw"></i>](https://twitter.com/ryosuzk)
+[<i class="fa fa-github-alt fa-fw"></i>](https://github.com/ryosuzuki)
+[<i class="fa fa-facebook fa-fw"></i>](https://www.facebook.com/ryosuzk)
+[<i class="fa fa-linkedin fa-fw"></i>](https://www.linkedin.com/in/ryosuzuki/)
+
+
+---
+
+<div style="text-align:center;">
+<a class="twitter-timeline" href="https://twitter.com/ryosuzk" data-widget-id="586803163707023360" width="580" >Tweets by @ryosuzk</a>
+</div>
+
+
+
+
+<!--
 
 
 ### Contacts
@@ -147,6 +170,4 @@ Twitter: [@ryosuzk](https://twitter.com/ryosuzk) , GitHub: [https://github.com/r
 
 ---
 
-<div style="text-align:center;">
-<a class="twitter-timeline" href="https://twitter.com/ryosuzk" data-widget-id="586803163707023360" width="580" >Tweets by @ryosuzk</a>
-</div>
+-->

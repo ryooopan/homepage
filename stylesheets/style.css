@@ -2,7 +2,7 @@ h1, h2, h3, h4, h5, strong, b {
   font-weight: 600; }
 
 html, body {
-  height: 100%; 
+  height: 100%;
 }
 
 .hoge {
@@ -12,11 +12,11 @@ html, body {
 
 .video-container {
   position: relative;
-  padding-bottom: 43% !important; 
-  padding-top: 30px !important; 
+  padding-bottom: 43% !important;
+  padding-top: 30px !important;
   height: 0;
   overflow: hidden;
-  margin: 0 60px;  
+  margin: 0 60px;
 }
 
 .video-container iframe {
@@ -239,8 +239,8 @@ a, .as-link {
 
 hr {
   border: 0;
-  border-bottom: 1px dotted #CCC; 
-  margin: 50px 60px; 
+  border-bottom: 1px dotted #CCC;
+  margin: 50px 60px;
 }
 
 ul.posts, ul.posts li {
@@ -277,21 +277,21 @@ section.post {
     text-transform: uppercase;
     text-align: center;
     line-height: 1.5em;
-    margin-bottom: 60px; 
+    margin-bottom: 60px;
   }
   section.post h1 .date {
     color: #d0d0d0;
-    font-size: 1.0em; 
+    font-size: 1.0em;
   }
   section.post iframe {
-    width: 100%; 
+    width: 100%;
   }
   section.post iframe, section.post img {
     padding: 0;
     border-bottom-left-radius: 3px;
     border-bottom-right-radius: 3px;
     border-top-left-radius: 3px;
-    border-top-right-radius: 3px; 
+    border-top-right-radius: 3px;
   }
 section.post, section > p {
   font-size: 1.2em;

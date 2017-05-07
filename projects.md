@@ -3,13 +3,64 @@ layout: page
 title: Projects
 ---
 
-# Current Projects 
+# Fun Projects
 
 
+### 3D Deformation [[GitHub](https://github.com/ryosuzuki/cad-app)]
 
-### [Sift](/projects/sift) 
+This is a class project for CSCI-5229 Computer Graphics.
+I implemented a standard ARAP deformation algorithm with OpenGL.
 
-Sift is an information visualization toolkit for non-programmers. 
+![](https://raw.githubusercontent.com/ryosuzuki/cad-app/master/demo-sphere.gif)
+
+---
+
+### Kinect-based Character Animation [[Project Site](https://techsportplay2016.wordpress.com/2016/05/02/final-project-report-easy-drawing-animation/)]
+
+This is a class project for CSCI-7000 Technology for Sports and Play taught by Mark Gross.
+The goal of this project is to make an anmiation easier and more intuitive.
+To achieve this goal, I use a Kinect to detect the human motion and make a character animation by synchronizing with the body movement.
+You can find more details about this prototype [here](https://techsportplay2016.wordpress.com/2016/05/02/final-project-report-easy-drawing-animation/).
+
+![](https://techsportplay2016.files.wordpress.com/2016/05/demo-2.gif?w=1280)
+
+
+---
+
+### Easy Drawing Animation [[Project Site](https://techsportplay2016.wordpress.com/2016/02/15/easy-drawing-animation-2/)]
+
+This is just a fun prototype that turns hand-drawn sketch into kinetic animation based on the real-time face tracking.
+
+
+![](https://techsportplay2016.files.wordpress.com/2016/02/qpwiiweb6x.gif?w=1280)
+
+Here is a concept video behind this idea.
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vBhn3s5IDWA" frameborder="0" allowfullscreen></iframe>
+</div>
+
+You can find more details about this project [here](https://techsportplay2016.wordpress.com/2016/02/15/easy-drawing-animation-2/).
+
+
+---
+
+### Object Recognition with Neural Netowrk
+
+This is a class project for CSCI-5722 Computer Vision.
+I implemented an object recognition and classification with the CNN (Convolutional Neural Network) trained with the ImageNet dataset.
+I adopt the VGG-16 neural network (ILSRC 2014 winner), which consists of 16 weight layers.
+By using this model, the program can automatically label the image (e.g., pig, computer screen, ruggby ball, toy poodle, etc) just like Google Photos.
+
+![](https://raw.githubusercontent.com/ryosuzuki/CSCI-5722/master/final-project/screenshots/toy-poodle.png)
+
+
+---
+
+
+### Sift [[GitHub](https://github.com/ryosuzuki/sift)]
+
+Sift is an information visualization toolkit for non-programmers.
 Sift enables users to convert information on any website into JSON data simply by dragging the mouse, enabling them to visualize data without any coding experience.
 
 <div class="video-container">
@@ -20,7 +71,7 @@ Sift enables users to convert information on any website into JSON data simply b
 ---
 
 
-### [Cumiki](/projects/cumiki) [[Demo](http://cumiki.com/demo)]
+### Cumiki
 
 Programming educational tool for GitHub code.
 Learning and teaching open source code with excerpting and assembling like LEGO blocks.
@@ -33,7 +84,7 @@ Learning and teaching open source code with excerpting and assembling like LEGO 
 ---
 
 
-### [Interactive Video Tutorial](/projects/ivt)
+### Interactive Video Tutorial
 
 Interactive Video Tutorial allows you to learn programming interactively.
 
@@ -44,10 +95,6 @@ Interactive Video Tutorial allows you to learn programming interactively.
 <br><br>
 
 ---
-
-<br>
-
-# Previous Projects
 
 ### Information Visualization with D3.js [[Demo](http://graph.ryosuzuki.org)]
 
@@ -80,7 +127,7 @@ iOS music player app with social recomendation powered by machine learning.
 
 ### Bicycle Electricity Generator
 
-As exhibition of University of Tokyo, I and colleagues developed bicycle power generator and real-time power monitor with Arduino and Node.js 
+As exhibition of University of Tokyo, I and colleagues developed bicycle power generator and real-time power monitor with Arduino and Node.js
 
 ![](/images/bicycle.png)
 
@@ -106,7 +153,7 @@ With coorporation of [University of Tokyo Center of Innovation](http://www.ducr.
 
 ### NASA Space App Challenge [[Demo](http://craters.heroku.com)]
 
-I and colleagues joined the [International Space Apps Challenge](https://2012.spaceappschallenge.org/home/) and developed some application wchich utilize a lot of crator images provided by NASA. 
+I and colleagues joined the [International Space Apps Challenge](https://2012.spaceappschallenge.org/home/) and developed some application wchich utilize a lot of crator images provided by NASA.
 We were proudly honored as the prize winner by Japanese astrronaut Naoko Yamazaki.
 
 <div class="video-container">

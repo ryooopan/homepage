@@ -4,7 +4,7 @@ layout: index
 
 ### Profile
 
-Hi, I'm Ryo Suzuki, a Ph.D. student in Computer Science at the [**University of Colorado Boulder**](http://www.colorado.edu/cs/), [Human-Centered Computing lab](http://hcc.colorado.edu/), working with [**Tom Yeh**](http://tomyeh.info/) and [**Mark D. Gross**](http://mdgross.net/).
+Hi, I'm Ryo Suzuki, a Ph.D. student in Computer Science at the [**University of Colorado Boulder**](http://www.colorado.edu/cs/), [Human-Centered Computing lab](http://hcc.colorado.edu/), working with [**Mark D. Gross**](http://mdgross.net/) and [**Tom Yeh**](http://tomyeh.info/).
 
 **Publications:**
 [<i class="fa fa-graduation-cap fa-fw"></i> Google Scholar](https://scholar.google.com/citations?user=klWjaQIAAAAJ)
@@ -72,7 +72,7 @@ Stanford Research Collective. [[PDF]](http://hci.stanford.edu/publications/2015/
 [**ICSE'15**](http://2015.icse-conferences.org/) Poster: <br>
 [**Interactive and Collaborative Source Code Annotation**](/publications/icse-2015.pdf)<br>
 **Ryo Suzuki**.
-[[PDF]](/publications/icse-2015.pdf) [[ACM DL]](http://dl.acm.org/citation.cfm?id=2819173) [[Poster]](/publications/icse-2015.pdf)
+[[PDF]](/publications/icse-2015.pdf) [[ACM DL]](http://dl.acm.org/citation.cfm?id=2819173) [[Poster]](/publications/icse-2015-poster.pdf)
 
 [**WINE'14**](http://wine2014.amss.ac.cn/) Poster: <br>
 [**Network Thresholds and Multiple Equilibria in the Diffusion of Content-Based Platforms**](/publications/wine-2014.pdf)<br>
@@ -85,13 +85,13 @@ Stanford Research Collective. [[PDF]](http://hci.stanford.edu/publications/2015/
 ### Research Experience
 
 August, 2015 --- Current <br>
-**CU Boulder**, [**HCC Group**](http://hcc.colorado.edu/), working with [**Tom Yeh**](http://tomyeh.info/) and [**Mark D. Gross**](http://mdgross.net/)
+**CU Boulder**, [**HCC Group**](http://hcc.colorado.edu/), working with [**Mark D. Gross**](http://mdgross.net/) and [**Tom Yeh**](http://tomyeh.info/)
 
 May, 2016 --- August, 2016 <br>
 **UC Berkeley**, [**BiD Lab**](http://bid.berkeley.edu/), working with [**Bjoern Hartmann**](http://people.eecs.berkeley.edu/~bjoern/)
 
 May, 2015 --- August, 2015 <br>
-**Stanford University**, [**HCI Group**](http://hci.stanford.edu/), working with [**Michael Bernstein**](http://people.eecs.berkeley.edu/~bjoern/)
+**Stanford University**, [**HCI Group**](http://hci.stanford.edu/), working with [**Michael Bernstein**](http://hci.stanford.edu/msb/)
 
 October, 2014 --- May, 2015 <br>
 **University of Tokyo**, [**IIS Lab**](http://iis-lab.org/), working with [**Koji Yatani**](http://yatani.jp/)

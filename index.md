@@ -40,7 +40,9 @@ Our work is also featured in the [**media**](https://backchannel.com/its-not-jus
 
 ### Full Paper
 
-[**ASSETS'17**](https://assets17.sigaccess.org/): **FluxMarker: Enhancing Tactile Graphics with Dynamic Tactile Markers** <br>
+[**ASSETS'17**](https://assets17.sigaccess.org/):
+<br>
+**FluxMarker: Enhancing Tactile Graphics with Dynamic Tactile Markers** <br>
 **Ryo Suzuki**, Abigale Stangl, Mark Gross, Tom Yeh
 (To appear)
 

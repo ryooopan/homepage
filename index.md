@@ -14,6 +14,8 @@ Hi, I'm Ryo Suzuki, a Ph.D. student in Computer Science at the [**University of 
 
 ### Recent Updates
 
+2017-06-21: Our [**ASSETS 2017**](https://assets17.sigaccess.org/) full-paper has been accepted (26%).
+
 2017-02-11: Our [**CHI 2017**](https://chi2017.acm.org/) LBW paper has been accepted (38%).
 
 2016-12-16: Our [**L@S 2017**](http://learningatscale.acm.org/las2017/) full paper has been accepted (22%).
@@ -37,6 +39,10 @@ Our work is also featured in the [**media**](https://backchannel.com/its-not-jus
 ---
 
 ### Full Paper
+
+[**ASSETS'17**](https://assets17.sigaccess.org/): **FluxMarker: Enhancing Tactile Graphics with Dynamic Tactile Markers** <br>
+**Ryo Suzuki**, Abigale Stangl, Mark Gross, Tom Yeh
+(To appear)
 
 [**L@S'17**](http://learningatscale.acm.org/las2017/): [**Writing Reusable Code Feedback at Scale with Mixed-Initiative Program Synthesis**](https://people.eecs.berkeley.edu/~bjoern/papers/head-mistakebrowser-las2017.pdf) <br>
 Andrew Head, Elena Glassman, Gustavo Soares, **Ryo Suzuki**, Lucas Figueredo, Loris D’Antoni, Bjoern Hartmann. [[PDF]](https://people.eecs.berkeley.edu/~bjoern/papers/head-mistakebrowser-las2017.pdf) [[ACM DL]](http://dl.acm.org/citation.cfm?id=3051467)

@@ -14,6 +14,8 @@ Hi, I'm Ryo Suzuki, a Ph.D. student in Computer Science at the [**University of 
 
 ### Recent Updates
 
+2017-06-27: Our [**VL/HCC 2017**](https://sites.google.com/site/vlhcc2017/) full-paper has been accepted (29%).
+
 2017-06-21: Our [**ASSETS 2017**](https://assets17.sigaccess.org/) full-paper has been accepted (26%).
 
 2017-02-11: Our [**CHI 2017**](https://chi2017.acm.org/) LBW paper has been accepted (38%).
@@ -40,6 +42,11 @@ Our work is also featured in the [**media**](https://backchannel.com/its-not-jus
 
 ### Full Paper
 
+[**VL/HCC'17**](https://sites.google.com/site/vlhcc2017/):
+<br>
+**TraceDiff: Debugging Unexpected Code Behavior Using Trace Divergence** <br>
+(To appear)
+
 [**ASSETS'17**](https://assets17.sigaccess.org/):
 <br>
 **FluxMarker: Enhancing Tactile Graphics with Dynamic Tactile Markers** <br>
@@ -65,7 +72,7 @@ Reudismam Rolim, Gustavo Soares, Loris D’Antoni, Oleksandr Polozov, Sumit Gulw
 [[PDF]](/publications/chi-2017.pdf) [[ACM DL]](http://dl.acm.org/citation.cfm?id=3053187) [[Poster]](/publications/chi-2017-poster.pdf)
 
 [**Autocomplete Textures for 3D Printing**](https://arxiv.org/pdf/1703.05700.pdf)<br>
-**Ryo Suzuki**, Tom Yeh, Koji Yatani, Mark D. Gross. [[PDF]](https://arxiv.org/pdf/1703.05700.pdf) [[arXiv]](https://arxiv.org/abs/1703.05700)
+**Ryo Suzuki**, Tom Yeh, Koji Yatani, Mark Gross. [[PDF]](https://arxiv.org/pdf/1703.05700.pdf) [[arXiv]](https://arxiv.org/abs/1703.05700)
 
 [**UIST'15**](http://uist.acm.org/uist2015/about) Poster: <br>
 [**Daemo: a Self-Governed Crowdsourcing Marketplace**](http://hci.stanford.edu/publications/2015/crowdresearch/daemo-uist.pdf)<br>

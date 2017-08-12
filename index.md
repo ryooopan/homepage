@@ -43,16 +43,15 @@ Our work is also featured in the [**media**](https://backchannel.com/its-not-jus
 
 ### Full Paper
 
-[**VL/HCC'17**](https://sites.google.com/site/vlhcc2017/):
-<br>
-**TraceDiff: Debugging Unexpected Code Behavior Using Trace Divergence** <br>
-(To appear)
-
 [**ASSETS'17**](https://assets17.sigaccess.org/):
 <br>
-**FluxMarker: Enhancing Tactile Graphics with Dynamic Tactile Markers** <br>
-**Ryo Suzuki**, Abigale Stangl, Mark Gross, Tom Yeh
-(To appear)
+[**FluxMarker: Enhancing Tactile Graphics with Dynamic Tactile Markers**](/publications/assets-2017.pdf) <br>
+**Ryo Suzuki**, Abigale Stangl, Mark Gross, Tom Yeh. [[PDF]](/publications/assets-2017.pdf)
+
+[**VL/HCC'17**](https://sites.google.com/site/vlhcc2017/):
+<br>
+[**TraceDiff: Debugging Unexpected Code Behavior Using Trace Divergences**](/publications/vlhcc-2017.pdf) <br>
+**Ryo Suzuki**, Gustavo Soares, Andrew Head, Elena Glassman, Ruan Reis, Melina Mongiovi, Loris D’Antoni, Bjoern Hartmann. [[PDF]](/publications/vlhcc-2017.pdf) [[GitHub]](https://github.com/ryosuzuki/trace-diff) [[Demo]](https://ryosuzuki.github.io/trace-diff/)
 
 [**L@S'17**](http://learningatscale.acm.org/las2017/): [**Writing Reusable Code Feedback at Scale with Mixed-Initiative Program Synthesis**](https://people.eecs.berkeley.edu/~bjoern/papers/head-mistakebrowser-las2017.pdf) <br>
 Andrew Head, Elena Glassman, Gustavo Soares, **Ryo Suzuki**, Lucas Figueredo, Loris D’Antoni, Bjoern Hartmann. [[PDF]](https://people.eecs.berkeley.edu/~bjoern/papers/head-mistakebrowser-las2017.pdf) [[ACM DL]](http://dl.acm.org/citation.cfm?id=3051467)

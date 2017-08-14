@@ -29,7 +29,7 @@ Hi, I'm Ryo Suzuki, a Ph.D. student in Computer Science at the [**University of 
 2016-01-15: Our [**CHI 2016**](https://chi2016.acm.org/wp/) full-paper has been accepted (23%).
 
 <!--
-2016-05-10: I and [**Niloufar**](http://stanford.edu/~niloufar/) present [**Atelier**](http://hci.stanford.edu/publications/2016/atelier/atelier_2016.pdf) at CHI'16. Here is the [**slide**](/publications/chi-2016-slide.pdf).
+2016-05-10: I and [**Niloufar**](http://stanford.edu/~niloufar/) present [**Atelier**](http://hci.stanford.edu/publications/2016/atelier/atelier_2016.pdf) at CHI'16. Here is the [**slide**](/publications/chi-2016-atelier-slide.pdf).
 Our work is also featured in the [**media**](https://backchannel.com/its-not-just-robots-skilled-jobs-are-going-to-meatware-954adf770710).
 -->
 
@@ -45,53 +45,116 @@ Our work is also featured in the [**media**](https://backchannel.com/its-not-jus
 
 [**ASSETS'17**](https://assets17.sigaccess.org/):
 <br>
-[**FluxMarker: Enhancing Tactile Graphics with Dynamic Tactile Markers**](/publications/assets-2017.pdf) <br>
-**Ryo Suzuki**, Abigale Stangl, Mark Gross, Tom Yeh. [[PDF]](/publications/assets-2017.pdf)
+[**FluxMarker: Enhancing Tactile Graphics with Dynamic Tactile Markers**](/publications/assets-2017-fluxmarker.pdf)
+<br>
+**Ryo Suzuki**, Abigale Stangl, Mark Gross, Tom Yeh.
+<br>
+[[PDF]](/publications/assets-2017-fluxmarker.pdf)
+
 
 [**VL/HCC'17**](https://sites.google.com/site/vlhcc2017/):
 <br>
-[**TraceDiff: Debugging Unexpected Code Behavior Using Trace Divergences**](/publications/vlhcc-2017.pdf) <br>
-**Ryo Suzuki**, Gustavo Soares, Andrew Head, Elena Glassman, Ruan Reis, Melina Mongiovi, Loris D’Antoni, Bjoern Hartmann. [[PDF]](/publications/vlhcc-2017.pdf) [[GitHub]](https://github.com/ryosuzuki/trace-diff) [[Demo]](https://ryosuzuki.github.io/trace-diff/)
+[**TraceDiff: Debugging Unexpected Code Behavior Using Trace Divergences**](/publications/vlhcc-2017-tracediff.pdf)
+<br>
+**Ryo Suzuki**, Gustavo Soares, Andrew Head, Elena Glassman, Ruan Reis, Melina Mongiovi, Loris D’Antoni, Bjoern Hartmann.
+<br>
+[[PDF]](/publications/vlhcc-2017-tracediff.pdf)
+[[GitHub]](https://github.com/ryosuzuki/trace-diff)
+[[Demo]](https://ryosuzuki.github.io/trace-diff/)
 
-[**L@S'17**](http://learningatscale.acm.org/las2017/): [**Writing Reusable Code Feedback at Scale with Mixed-Initiative Program Synthesis**](https://people.eecs.berkeley.edu/~bjoern/papers/head-mistakebrowser-las2017.pdf) <br>
-Andrew Head, Elena Glassman, Gustavo Soares, **Ryo Suzuki**, Lucas Figueredo, Loris D’Antoni, Bjoern Hartmann. [[PDF]](https://people.eecs.berkeley.edu/~bjoern/papers/head-mistakebrowser-las2017.pdf) [[ACM DL]](http://dl.acm.org/citation.cfm?id=3051467)
 
-[**ICSE'17**](http://icse2017.gatech.edu/): [**Learning Syntactic Program Transformations from Examples**](https://people.eecs.berkeley.edu/~bjoern/papers/rolim-refazer-icse2017.pdf) <br>
-Reudismam Rolim, Gustavo Soares, Loris D’Antoni, Oleksandr Polozov, Sumit Gulwani, Rohit Gheyi, **Ryo Suzuki**, and Bjoern Hartmann. [[PDF]](https://people.eecs.berkeley.edu/~bjoern/papers/rolim-refazer-icse2017.pdf) [[arXiv]](https://arxiv.org/abs/1608.09000)
+[**L@S'17**](http://learningatscale.acm.org/las2017/):
+<br>
+[**Writing Reusable Code Feedback at Scale with Mixed-Initiative Program Synthesis**](/publications/las-2017-mixed.pdf)
+<br>
+Andrew Head, Elena Glassman, Gustavo Soares, **Ryo Suzuki**, Lucas Figueredo, Loris D’Antoni, Bjoern Hartmann.
+<br>
+[[PDF]](/publications/las-2017-mixed.pdf)
+[[ACM DL]](http://dl.acm.org/citation.cfm?id=3051467)
 
-[**CHI'16**](https://chi2016.acm.org/wp/): [**Atelier: Repurposing Expert Crowdsourcing Tasks as Micro-internships**](http://hci.stanford.edu/publications/2016/atelier/atelier_2016.pdf) <br>
-**Ryo Suzuki**, Niloufar Salehi, Michelle S. Lam, Juan C. Marroquin, and Michael S. Bernstein. [[PDF]](http://hci.stanford.edu/publications/2016/atelier/atelier_2016.pdf) [[Video]](https://youtu.be/tBojZejtFQo) [[Slide]](/publications/chi-2016-slide.pdf) [[ACM DL]](http://dl.acm.org/citation.cfm?id=2858121) [[arXiv]](https://arxiv.org/abs/1602.06634)
+
+[**ICSE'17**](http://icse2017.gatech.edu/):
+<br>
+[**Learning Syntactic Program Transformations from Examples**](/publications/icse-2017-refazer.pdf)
+<br>
+Reudismam Rolim, Gustavo Soares, Loris D’Antoni, Oleksandr Polozov, Sumit Gulwani, Rohit Gheyi, **Ryo Suzuki**, and Bjoern Hartmann.
+<br>
+[[PDF]](/publications/icse-2017-refazer.pdf)
+[[arXiv]](https://arxiv.org/abs/1608.09000)
+
+
+[**CHI'16**](https://chi2016.acm.org/wp/): [**Atelier: Repurposing Expert Crowdsourcing Tasks as Micro-internships**](/publications/chi-2016-atelier.pdf)
+<br>
+**Ryo Suzuki**, Niloufar Salehi, Michelle S. Lam, Juan C. Marroquin, and Michael S. Bernstein.
+<br>
+[[PDF]](/publications/chi-2016-atelier.pdf)
+[[Video]](https://youtu.be/tBojZejtFQo)
+[[Slide]](/publications/chi-2016-atelier-slide.pdf)
+[[ACM DL]](http://dl.acm.org/citation.cfm?id=2858121)
+[[arXiv]](https://arxiv.org/abs/1602.06634)
 
 -
 
 ### Work in Progress
 
 [**CHI'17**](https://chi2017.acm.org/) Late-Breaking Work: <br>
-[**Exploring the Design Space of Automatically Synthesized Hints for Introductory Programming Assignments**](/publications/chi-2017.pdf)<br>
+[**Exploring the Design Space of Automatically Synthesized Hints for Introductory Programming Assignments**](/publications/chi-2017-lbw.pdf)
+<br>
 **Ryo Suzuki**, Gustavo Soares, Elena Glassman, Andrew Head, Loris D’Antoni, Bjoern Hartmann.
-[[PDF]](/publications/chi-2017.pdf) [[ACM DL]](http://dl.acm.org/citation.cfm?id=3053187) [[Poster]](/publications/chi-2017-poster.pdf)
+<br>
+[[PDF]](/publications/chi-2017-lbw.pdf)
+[[ACM DL]](http://dl.acm.org/citation.cfm?id=3053187)
+[[Poster]](/publications/chi-2017-lbw-poster.pdf)
 
-[**Autocomplete Textures for 3D Printing**](https://arxiv.org/pdf/1703.05700.pdf)<br>
-**Ryo Suzuki**, Tom Yeh, Koji Yatani, Mark Gross. [[PDF]](https://arxiv.org/pdf/1703.05700.pdf) [[arXiv]](https://arxiv.org/abs/1703.05700)
 
-[**UIST'15**](http://uist.acm.org/uist2015/about) Poster: <br>
-[**Daemo: a Self-Governed Crowdsourcing Marketplace**](http://hci.stanford.edu/publications/2015/crowdresearch/daemo-uist.pdf)<br>
-Stanford Research Collective. [[PDF]](http://hci.stanford.edu/publications/2015/crowdresearch/daemo-uist.pdf) [[ACM DL]](http://dl.acm.org/citation.cfm?id=2815739)
+[**Autocomplete Textures for 3D Printing**](https://arxiv.org/pdf/1703.05700.pdf)
+<br>
+**Ryo Suzuki**, Tom Yeh, Koji Yatani, Mark Gross.
+<br>
+[[PDF]](https://arxiv.org/pdf/1703.05700.pdf)
+[[arXiv]](https://arxiv.org/abs/1703.05700)
 
-[**CHI'15**](http://chi2015.acm.org/) Workshop Paper: <br>
-[**Toward a Community Enhanced Programming Education**](/publications/chi-2015.pdf)<br>
+
+[**UIST'15**](http://uist.acm.org/uist2015/about) Poster:
+<br>
+[**Daemo: a Self-Governed Crowdsourcing Marketplace**](/publications/uist-2015-daemo.pdf)
+<br>
+Stanford Research Collective.
+<br>
+[[PDF]](/publications/uist-2015-daemo.pdf)
+[[ACM DL]](http://dl.acm.org/citation.cfm?id=2815739)
+
+
+[**CHI'15**](http://chi2015.acm.org/) Workshop Paper:
+<br>
+[**Toward a Community Enhanced Programming Education**](/publications/chi-2015-workshop.pdf)
+<br>
 **Ryo Suzuki**.
-[[PDF]](/publications/chi-2015.pdf) [[Slide]](/publications/chi-2015-slide.pdf)
+<br>
+[[PDF]](/publications/chi-2015-workshop.pdf)
+[[Slide]](/publications/chi-2015-workshop-slide.pdf)
 [[Workshop Website]](http://hci.tokyo/)
 
-[**ICSE'15**](http://2015.icse-conferences.org/) Poster: <br>
-[**Interactive and Collaborative Source Code Annotation**](/publications/icse-2015.pdf)<br>
-**Ryo Suzuki**.
-[[PDF]](/publications/icse-2015.pdf) [[ACM DL]](http://dl.acm.org/citation.cfm?id=2819173) [[Poster]](/publications/icse-2015-poster.pdf)
 
-[**WINE'14**](http://wine2014.amss.ac.cn/) Poster: <br>
-[**Network Thresholds and Multiple Equilibria in the Diffusion of Content-Based Platforms**](/publications/wine-2014.pdf)<br>
-**Ryo Suzuki**. [[PDF]](/publications/wine-2014.pdf) [[Poster]](/publications/wine-2014.pdf)
+[**ICSE'15**](http://2015.icse-conferences.org/) Poster:
+<br>
+[**Interactive and Collaborative Source Code Annotation**](/publications/icse-2015-cumiki.pdf)
+<br>
+**Ryo Suzuki**.
+<br>
+[[PDF]](/publications/icse-2015-cumiki.pdf)
+[[ACM DL]](http://dl.acm.org/citation.cfm?id=2819173)
+[[Poster]](/publications/icse-2015-cumiki-poster.pdf)
+
+
+[**WINE'14**](http://wine2014.amss.ac.cn/) Poster:
+<br>
+[**Network Thresholds and Multiple Equilibria in the Diffusion of Content-Based Platforms**](/publications/wine-2014-network.pdf)
+<br>
+**Ryo Suzuki**.
+<br>
+[[PDF]](/publications/wine-2014-network.pdf)
+[[Poster]](/publications/wine-2014-network-poster.pdf)
 
 
 ---

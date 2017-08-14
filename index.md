@@ -95,7 +95,7 @@ Reudismam Rolim, Gustavo Soares, Loris D’Antoni, Oleksandr Polozov, Sumit Gulw
 
 -
 
-### Work in Progress
+### Poster and Demo
 
 [**CHI'17**](https://chi2017.acm.org/) Late-Breaking Work: <br>
 [**Exploring the Design Space of Automatically Synthesized Hints for Introductory Programming Assignments**](/publications/chi-2017-lbw.pdf)

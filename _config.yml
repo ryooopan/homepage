@@ -2,8 +2,6 @@ title:            Ryo Suzuki - University of Colorado Boulder
 description:      Welcome to Ryo Suzuke\'s Home Page
 url:              http://ryosuzuki.org
 signoff:          Ryo Suzuki
-disqus_shortname: # disqus comment thread for post header options. ( leave blank if unwanted. )
-facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.
 google_analytics: UA-62643728-1
 
 links:

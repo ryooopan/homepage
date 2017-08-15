@@ -1,4 +1,3 @@
-Ryo Suzuki's Homepage
-========
+# Ryo Suzuki's Homepage
 
 http://ryosuzuki.org

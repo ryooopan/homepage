@@ -50,6 +50,7 @@ Our work is also featured in the [**media**](https://backchannel.com/its-not-jus
 **Ryo Suzuki**, Abigale Stangl, Mark Gross, Tom Yeh.
 <br>
 [[PDF]](/publications/assets-2017-fluxmarker.pdf)
+[[arXiv]](https://arxiv.org/abs/1708.03783)
 
 
 [**VL/HCC'17**](https://sites.google.com/site/vlhcc2017/):
@@ -61,6 +62,7 @@ Our work is also featured in the [**media**](https://backchannel.com/its-not-jus
 [[PDF]](/publications/vlhcc-2017-tracediff.pdf)
 [[GitHub]](https://github.com/ryosuzuki/trace-diff)
 [[Demo]](https://ryosuzuki.github.io/trace-diff/)
+[[arXiv]](https://arxiv.org/abs/1708.03786)
 
 
 [**L@S'17**](http://learningatscale.acm.org/las2017/):
@@ -247,5 +249,13 @@ Email: ryo.suzuki@colorado.edu
 Twitter: [@ryosuzk](https://twitter.com/ryosuzk) , GitHub: [https://github.com/ryosuzuki](https://github.com/ryosuzuki),  LinkedIn: [https://www.linkedin.com/in/ryosuzuki](https://www.linkedin.com/in/ryosuzuki), Facebook: [ryosuzk](https://facebook.com/ryosuzk)
 
 ---
+
+"Diffusion Process and Take-off Conditions of the Online Platform", 2013, Microeconomic Policy Workshop at University of Tokyo. [[slide](/micro-workshop.pdf)]
+
+"Diffusion Process and Community Design", 2012, AMTW (Advanced Microeconomic Theory Workshop) at Osaka University. [[slide](/amtw-2012.pdf)]
+
+"Educational Economics about Mechanism of the Income Gap Expansion and Human Capi   tal Investment", 2011, Social Science Research, Vol. 63, No. 1 (in Japanese). [[paper](/social-science-2011.pdf)]
+
+"Incentive Structure on Open Source Software Community: Case Study of GitHub", 2014, Working Paper. [[paper](/working-paper.pdf)]
 
 -->

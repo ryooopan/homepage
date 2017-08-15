@@ -1,6 +1,5 @@
 ---
-layout: page
-title: Projects
+layout: index
 ---
 
 # Fun Projects
@@ -100,7 +99,7 @@ Interactive Video Tutorial allows you to learn programming interactively.
 
 The project in [Information Visualization and Data Analysis](http://yatani.jp/teaching/doku.php?id=2014infovislab:start) hands-on workshop by Prof. [Koji Yatani](http://yatani.jp/) at University of Tokyo.
 
-![](/images/infovis.png)
+![](/assets/img/infovis.png)
 
 
 ---
@@ -110,7 +109,7 @@ The project in [Information Visualization and Data Analysis](http://yatani.jp/te
 Interactive VJ (Video Jockey) for Halloween party.
 This is made for [Google Web Music Hackathon](http://googledevjp.blogspot.jp/2013/09/1019-web-music.html), and [Tech or Treat 2012 at Lab+Cafe](http://lab-cafe.net/page/).
 
-![](/images/halloween.png)
+![](/assets/img/halloween.png)
 
 
 ---
@@ -120,7 +119,7 @@ This is made for [Google Web Music Hackathon](http://googledevjp.blogspot.jp/201
 
 iOS music player app with social recomendation powered by machine learning.
 
-![](/images/populi.png)
+![](/assets/img/populi.png)
 
 
 ---
@@ -129,7 +128,7 @@ iOS music player app with social recomendation powered by machine learning.
 
 As exhibition of University of Tokyo, I and colleagues developed bicycle power generator and real-time power monitor with Arduino and Node.js
 
-![](/images/bicycle.png)
+![](/assets/img/bicycle.png)
 
 ---
 
@@ -138,7 +137,7 @@ As exhibition of University of Tokyo, I and colleagues developed bicycle power g
 This is an automated watering device with remote monitoring of plant moisture levels, one of the projects developed in Mitakalab.
 This was built with a combination of different technologies such as Arduino, Node.js, WebSocket, as well as agricultural knowledge.
 
-![](/images/water.png)
+![](/assets/img/water.png)
 
 ---
 
@@ -146,7 +145,7 @@ This was built with a combination of different technologies such as Arduino, Nod
 
 With coorporation of [University of Tokyo Center of Innovation](http://www.ducr.u-tokyo.ac.jp/en/), I launched Mitakalab community, which provides the place where everybody can learn to code and create innovation.
 
-![](/images/mitakalab.png)
+![](/assets/img/mitakalab.png)
 
 ---
 
@@ -166,7 +165,7 @@ We were proudly honored as the prize winner by Japanese astrronaut Naoko Yamazak
 
 Samenos is an oline portfolio service for artists, illustrators, and designers.
 
-![](/images/samenos.png)
+![](/assets/img/samenos.png)
 
 
 

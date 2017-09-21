@@ -50,6 +50,7 @@ Our work is also featured in the [**media**](https://backchannel.com/its-not-jus
 **Ryo Suzuki**, Abigale Stangl, Mark Gross, Tom Yeh.
 <br>
 [[PDF]](/publications/assets-2017-fluxmarker.pdf)
+[[Video]](https://youtu.be/VbwIZ9V6i_g)
 [[arXiv]](https://arxiv.org/abs/1708.03783)
 
 
@@ -82,6 +83,7 @@ Andrew Head, Elena Glassman, Gustavo Soares, **Ryo Suzuki**, Lucas Figueredo, Lo
 Reudismam Rolim, Gustavo Soares, Loris D’Antoni, Oleksandr Polozov, Sumit Gulwani, Rohit Gheyi, **Ryo Suzuki**, and Bjoern Hartmann.
 <br>
 [[PDF]](/publications/icse-2017-refazer.pdf)
+[[ACM DL]](http://dl.acm.org/citation.cfm?id=3097417)
 [[arXiv]](https://arxiv.org/abs/1608.09000)
 
 

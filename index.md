@@ -61,6 +61,7 @@ Our work is also featured in the [**media**](https://backchannel.com/its-not-jus
 **Ryo Suzuki**, Gustavo Soares, Andrew Head, Elena Glassman, Ruan Reis, Melina Mongiovi, Loris D’Antoni, Bjoern Hartmann.
 <br>
 [[PDF]](/publications/vlhcc-2017-tracediff.pdf)
+[[Slide]](/publications/vlhcc-2017-tracediff-slide.pdf)
 [[GitHub]](https://github.com/ryosuzuki/trace-diff)
 [[Demo]](https://ryosuzuki.github.io/trace-diff/)
 [[arXiv]](https://arxiv.org/abs/1708.03786)

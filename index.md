@@ -51,6 +51,7 @@ Our work is also featured in the [**media**](https://backchannel.com/its-not-jus
 <br>
 [[PDF]](/publications/assets-2017-fluxmarker.pdf)
 [[Video]](https://youtu.be/VbwIZ9V6i_g)
+[[Slide]](/publications/assets-2017-fluxmarker-slide.pdf)
 [[arXiv]](https://arxiv.org/abs/1708.03783)
 
 

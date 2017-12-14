@@ -14,6 +14,8 @@ Hi, I'm Ryo Suzuki, a Ph.D. student in Computer Science at the [**University of 
 
 ### Recent Updates
 
+2017-12-11: Two [**CHI 2018**](https://chi2018.acm.org/) full-papers have been accepted.
+
 2017-06-27: Our [**VL/HCC 2017**](https://sites.google.com/site/vlhcc2017/) full-paper has been accepted (29%).
 
 2017-06-21: Our [**ASSETS 2017**](https://assets17.sigaccess.org/) full-paper has been accepted (26%).

@@ -16,19 +16,19 @@ Hi, I'm Ryo Suzuki, a Ph.D. student in Computer Science at the [**University of 
 
 2017-12-11: Two [**CHI 2018**](https://chi2018.acm.org/) full-papers have been accepted.
 
-2017-06-27: Our [**VL/HCC 2017**](https://sites.google.com/site/vlhcc2017/) full-paper has been accepted (29%).
+2017-06-27: One [**VL/HCC 2017**](https://sites.google.com/site/vlhcc2017/) full-paper has been accepted (29%).
 
-2017-06-21: Our [**ASSETS 2017**](https://assets17.sigaccess.org/) full-paper has been accepted (26%).
+2017-06-21: One [**ASSETS 2017**](https://assets17.sigaccess.org/) full-paper has been accepted (26%).
 
-2017-02-11: Our [**CHI 2017**](https://chi2017.acm.org/) LBW paper has been accepted (38%).
+2017-02-11: One [**CHI 2017**](https://chi2017.acm.org/) LBW paper has been accepted (38%).
 
-2016-12-16: Our [**L@S 2017**](http://learningatscale.acm.org/las2017/) full paper has been accepted (22%).
+2016-12-16: One [**L@S 2017**](http://learningatscale.acm.org/las2017/) full paper has been accepted (22%).
 
-2016-12-12: Our [**ICSE 2017**](http://icse2017.gatech.edu/) full-paper has been accepted (19%).
+2016-12-12: One [**ICSE 2017**](http://icse2017.gatech.edu/) full-paper has been accepted (19%).
 
 2016-05-23: Summer at [**UC Berkeley**](http://bid.berkeley.edu/) with [**Bjoern Hartmann**](http://people.eecs.berkeley.edu/~bjoern/).
 
-2016-01-15: Our [**CHI 2016**](https://chi2016.acm.org/wp/) full-paper has been accepted (23%).
+2016-01-15: One [**CHI 2016**](https://chi2016.acm.org/wp/) full-paper has been accepted (23%).
 
 <!--
 2016-05-10: I and [**Niloufar**](http://stanford.edu/~niloufar/) present [**Atelier**](http://hci.stanford.edu/publications/2016/atelier/atelier_2016.pdf) at CHI'16. Here is the [**slide**](/publications/chi-2016-atelier-slide.pdf).

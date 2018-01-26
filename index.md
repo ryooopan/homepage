@@ -45,11 +45,29 @@ Our work is also featured in the [**media**](https://backchannel.com/its-not-jus
 
 ### Full Paper
 
+[**CHI'18**](https://chi2018.acm.org/):
+<br>
+[**Reactile: Programming Swarm User Interfaces through Direct Physical Manipulation**](/publications/chi-2018-reactile.pdf)
+<br>
+**Ryo Suzuki**, Jun Kato, Mark D. Gross, Tom Yeh.
+<br>
+[[PDF]](/publications/chi-2018-reactile.pdf)
+
+
+[**CHI'18**](https://chi2018.acm.org/):
+<br>
+[**PEP (3D Printed Electronic Papercrafts): An Integrated Approach for 3D Sculpting Paper-based Electronic Devices**](/publications/chi-2018-pep.pdf)
+<br>
+Hyunjoo Oh, Tung D. Ta, **Ryo Suzuki**, Mark D. Gross, Yoshihiro Kawahara, Lining Yao.
+<br>
+[[PDF]](/publications/chi-2018-pep.pdf)
+
+
 [**ASSETS'17**](https://assets17.sigaccess.org/):
 <br>
 [**FluxMarker: Enhancing Tactile Graphics with Dynamic Tactile Markers**](/publications/assets-2017-fluxmarker.pdf)
 <br>
-**Ryo Suzuki**, Abigale Stangl, Mark Gross, Tom Yeh.
+**Ryo Suzuki**, Abigale Stangl, Mark D. Gross, Tom Yeh.
 <br>
 [[PDF]](/publications/assets-2017-fluxmarker.pdf)
 [[Video]](https://youtu.be/VbwIZ9V6i_g)

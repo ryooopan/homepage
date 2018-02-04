@@ -72,6 +72,7 @@ Hyunjoo Oh, Tung D. Ta, **Ryo Suzuki**, Mark D. Gross, Yoshihiro Kawahara, Linin
 [[PDF]](/publications/assets-2017-fluxmarker.pdf)
 [[Video]](https://youtu.be/VbwIZ9V6i_g)
 [[Slide]](/publications/assets-2017-fluxmarker-slide.pdf)
+[[ACM DL]](https://dl.acm.org/citation.cfm?id=3132548)
 [[arXiv]](https://arxiv.org/abs/1708.03783)
 
 
@@ -85,6 +86,7 @@ Hyunjoo Oh, Tung D. Ta, **Ryo Suzuki**, Mark D. Gross, Yoshihiro Kawahara, Linin
 [[Slide]](/publications/vlhcc-2017-tracediff-slide.pdf)
 [[GitHub]](https://github.com/ryosuzuki/trace-diff)
 [[Demo]](https://ryosuzuki.github.io/trace-diff/)
+[[IEEE]](http://ieeexplore.ieee.org/document/8103457/)
 [[arXiv]](https://arxiv.org/abs/1708.03786)
 
 

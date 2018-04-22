@@ -4,7 +4,7 @@ layout: index
 
 ### Profile
 
-Hi, I'm Ryo Suzuki, a Ph.D. student in Computer Science at the [**University of Colorado Boulder**](http://www.colorado.edu/cs/), [Human-Centered Computing lab](http://hcc.colorado.edu/), working with [**Tom Yeh**](http://tomyeh.info/) and [**Mark D. Gross**](http://mdgross.net/).
+Hi, I'm Ryo Suzuki, a Ph.D. student in Computer Science at the [**University of Colorado Boulder**](http://www.colorado.edu/cs/), [Human-Centered Computing lab](http://hcc.colorado.edu/), working with [**Tom Yeh**](http://tomyeh.info/), [**Mark D. Gross**](http://mdgross.net/), and [**Daniel Leithinger**](http://leithinger.com/).
 
 **Publications:**
 [<i class="fa fa-graduation-cap fa-fw"></i> Google Scholar](https://scholar.google.com/citations?user=klWjaQIAAAAJ)
@@ -14,7 +14,9 @@ Hi, I'm Ryo Suzuki, a Ph.D. student in Computer Science at the [**University of 
 
 ### Recent Updates
 
-2017-12-11: Two [**CHI 2018**](https://chi2018.acm.org/) full-papers have been accepted.
+2017-12-16: Spring and Summer Intern for [**ERATO Project**](http://www.jst.go.jp/erato/kawahara/projects/) at the University of Tokyo with [**Yasuaki Kakehi**](http://www.xlab.sfc.keio.ac.jp/).
+
+2017-12-11: Two [**CHI 2018**](https://chi2018.acm.org/) full-papers have been accepted (25%).
 
 2017-06-27: One [**VL/HCC 2017**](https://sites.google.com/site/vlhcc2017/) full-paper has been accepted (29%).
 
@@ -150,7 +152,7 @@ Reudismam Rolim, Gustavo Soares, Loris D’Antoni, Oleksandr Polozov, Sumit Gulw
 [[ACM DL]](http://dl.acm.org/citation.cfm?id=2858121)
 [[arXiv]](https://arxiv.org/abs/1602.06634)
 
--
+---
 
 ### Poster and Demo
 

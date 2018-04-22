@@ -9,10 +9,12 @@
 }
 
 .info {
-  width: 70%;
+  width: 60%;
   float: left;
   padding: 0 !important;
+  margin-bottom: 30px;
 }
+
 
 
 h1, h2, h3, h4, h5, strong, b {

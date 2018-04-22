@@ -278,6 +278,12 @@ Tohso Scholorship Fellowship, 2010
 
 I'm broadly interested in **Human-Computer Interaction (HCI)**, including Design Tools, Tangible Interface, 3D Printing, Accessibility, Programming Education, and Crowdsourcing.
 
+---
+
+### Fun Projects
+
+You can see some previous fun projects from [**here**](/projects).
+
 
 ---
 

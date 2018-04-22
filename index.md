@@ -45,6 +45,10 @@ Our work is also featured in the [**media**](https://backchannel.com/its-not-jus
 
 ### Full Paper
 
+{:.image}
+![](/assets/img/reactile.jpg)
+
+{:.info}
 [**CHI'18**](https://chi2018.acm.org/):
 <br>
 [**Reactile: Programming Swarm User Interfaces through Direct Physical Manipulation**](/publications/chi-2018-reactile.pdf)
@@ -55,9 +59,11 @@ Our work is also featured in the [**media**](https://backchannel.com/its-not-jus
 [[Video]](https://youtu.be/YT7vMJZjohU)
 [[ACM DL]](https://dl.acm.org/citation.cfm?id=3173773)
 [[GitHub]](https://github.com/ryosuzuki/reactile)
-[Slide (to appear)]
 
+{:.image}
+![](/assets/img/pep.png)
 
+{:.info}
 [**CHI'18**](https://chi2018.acm.org/):
 <br>
 [**PEP (3D Printed Electronic Papercrafts): An Integrated Approach for 3D Sculpting Paper-based Electronic Devices**](/publications/chi-2018-pep.pdf)
@@ -69,6 +75,10 @@ Hyunjoo Oh, Tung D. Ta, **Ryo Suzuki**, Mark D. Gross, Yoshihiro Kawahara, Linin
 [[ACM DL]](https://dl.acm.org/citation.cfm?id=3174015)
 
 
+{:.image}
+![](assets/img/fluxmarker.png)
+
+{:.info}
 [**ASSETS'17**](https://assets17.sigaccess.org/):
 <br>
 [**FluxMarker: Enhancing Tactile Graphics with Dynamic Tactile Markers**](/publications/assets-2017-fluxmarker.pdf)
@@ -81,7 +91,10 @@ Hyunjoo Oh, Tung D. Ta, **Ryo Suzuki**, Mark D. Gross, Yoshihiro Kawahara, Linin
 [[ACM DL]](https://dl.acm.org/citation.cfm?id=3132548)
 [[arXiv]](https://arxiv.org/abs/1708.03783)
 
+{:.image}
+![](/assets/img/tracediff.png)
 
+{:.info}
 [**VL/HCC'17**](https://sites.google.com/site/vlhcc2017/):
 <br>
 [**TraceDiff: Debugging Unexpected Code Behavior Using Trace Divergences**](/publications/vlhcc-2017-tracediff.pdf)
@@ -95,7 +108,10 @@ Hyunjoo Oh, Tung D. Ta, **Ryo Suzuki**, Mark D. Gross, Yoshihiro Kawahara, Linin
 [[IEEE]](http://ieeexplore.ieee.org/document/8103457/)
 [[arXiv]](https://arxiv.org/abs/1708.03786)
 
+{:.image}
+![](https://people.eecs.berkeley.edu/~bjoern/images/paperthumbs/head-mistakebrowser-las2017.png)
 
+{:.info}
 [**L@S'17**](http://learningatscale.acm.org/las2017/):
 <br>
 [**Writing Reusable Code Feedback at Scale with Mixed-Initiative Program Synthesis**](/publications/las-2017-mixed.pdf)
@@ -105,7 +121,10 @@ Andrew Head, Elena Glassman, Gustavo Soares, **Ryo Suzuki**, Lucas Figueredo, Lo
 [[PDF]](/publications/las-2017-mixed.pdf)
 [[ACM DL]](http://dl.acm.org/citation.cfm?id=3051467)
 
+{:.image}
+![](/assets/img/refazer.png)
 
+{:.info}
 [**ICSE'17**](http://icse2017.gatech.edu/):
 <br>
 [**Learning Syntactic Program Transformations from Examples**](/publications/icse-2017-refazer.pdf)
@@ -117,6 +136,10 @@ Reudismam Rolim, Gustavo Soares, Loris D’Antoni, Oleksandr Polozov, Sumit Gulw
 [[arXiv]](https://arxiv.org/abs/1608.09000)
 
 
+{:.image}
+![](http://hci.stanford.edu/publications/2016/atelier/atelier.jpg)
+
+{:.info}
 [**CHI'16**](https://chi2016.acm.org/wp/): [**Atelier: Repurposing Expert Crowdsourcing Tasks as Micro-internships**](/publications/chi-2016-atelier.pdf)
 <br>
 **Ryo Suzuki**, Niloufar Salehi, Michelle S. Lam, Juan C. Marroquin, and Michael S. Bernstein.

@@ -1,3 +1,20 @@
+.image {
+  float: left;
+  padding-top: 10px !important;
+  padding-right: 10px !important;
+}
+
+.image img {
+  max-width: 100px !important;
+}
+
+.info {
+  width: 70%;
+  float: left;
+  padding: 0 !important;
+}
+
+
 h1, h2, h3, h4, h5, strong, b {
   font-weight: 600; }
 

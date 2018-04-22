@@ -14,7 +14,7 @@ Hi, I'm Ryo Suzuki, a Ph.D. student in Computer Science at the [**University of 
 
 ### Recent Updates
 
-2017-12-16: Spring and Summer Intern for [**ERATO Project**](http://www.jst.go.jp/erato/kawahara/projects/) at the University of Tokyo with [**Yasuaki Kakehi**](http://www.xlab.sfc.keio.ac.jp/).
+2017-12-16: Spring and Summer Intern for [**ERATO Project**](http://www.jst.go.jp/erato/kawahara/projects/) at the University of Tokyo with [**Yasuaki Kakehi**](http://www.xlab.sfc.keio.ac.jp/) and [**Yoshihiro Kawahara**](http://www.akg.t.u-tokyo.ac.jp/).
 
 2017-12-11: Two [**CHI 2018**](https://chi2018.acm.org/) full-papers have been accepted (25%).
 

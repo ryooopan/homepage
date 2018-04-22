@@ -51,7 +51,7 @@ Our work is also featured in the [**media**](https://backchannel.com/its-not-jus
 ![](/assets/img/reactile.jpg)
 
 {:.info}
-[**CHI'18**](https://chi2018.acm.org/):
+[**CHI 2018**](https://chi2018.acm.org/):
 <br>
 [**Reactile: Programming Swarm User Interfaces through Direct Physical Manipulation**](/publications/chi-2018-reactile.pdf)
 <br>
@@ -66,7 +66,7 @@ Our work is also featured in the [**media**](https://backchannel.com/its-not-jus
 ![](/assets/img/pep.png)
 
 {:.info}
-[**CHI'18**](https://chi2018.acm.org/):
+[**CHI 2018**](https://chi2018.acm.org/):
 <br>
 [**PEP (3D Printed Electronic Papercrafts): An Integrated Approach for 3D Sculpting Paper-based Electronic Devices**](/publications/chi-2018-pep.pdf)
 <br>
@@ -81,7 +81,7 @@ Hyunjoo Oh, Tung D. Ta, **Ryo Suzuki**, Mark D. Gross, Yoshihiro Kawahara, Linin
 ![](assets/img/fluxmarker.png)
 
 {:.info}
-[**ASSETS'17**](https://assets17.sigaccess.org/):
+[**ASSETS 2017**](https://assets17.sigaccess.org/):
 <br>
 [**FluxMarker: Enhancing Tactile Graphics with Dynamic Tactile Markers**](/publications/assets-2017-fluxmarker.pdf)
 <br>
@@ -97,7 +97,7 @@ Hyunjoo Oh, Tung D. Ta, **Ryo Suzuki**, Mark D. Gross, Yoshihiro Kawahara, Linin
 ![](/assets/img/tracediff.png)
 
 {:.info}
-[**VL/HCC'17**](https://sites.google.com/site/vlhcc2017/):
+[**VL/HCC 2017**](https://sites.google.com/site/vlhcc2017/):
 <br>
 [**TraceDiff: Debugging Unexpected Code Behavior Using Trace Divergences**](/publications/vlhcc-2017-tracediff.pdf)
 <br>
@@ -114,7 +114,7 @@ Hyunjoo Oh, Tung D. Ta, **Ryo Suzuki**, Mark D. Gross, Yoshihiro Kawahara, Linin
 ![](https://people.eecs.berkeley.edu/~bjoern/images/paperthumbs/head-mistakebrowser-las2017.png)
 
 {:.info}
-[**L@S'17**](http://learningatscale.acm.org/las2017/):
+[**L@S 2017**](http://learningatscale.acm.org/las2017/):
 <br>
 [**Writing Reusable Code Feedback at Scale with Mixed-Initiative Program Synthesis**](/publications/las-2017-mixed.pdf)
 <br>
@@ -127,7 +127,7 @@ Andrew Head, Elena Glassman, Gustavo Soares, **Ryo Suzuki**, Lucas Figueredo, Lo
 ![](/assets/img/refazer.png)
 
 {:.info}
-[**ICSE'17**](http://icse2017.gatech.edu/):
+[**ICSE 2017**](http://icse2017.gatech.edu/):
 <br>
 [**Learning Syntactic Program Transformations from Examples**](/publications/icse-2017-refazer.pdf)
 <br>
@@ -142,7 +142,7 @@ Reudismam Rolim, Gustavo Soares, Loris D’Antoni, Oleksandr Polozov, Sumit Gulw
 ![](http://hci.stanford.edu/publications/2016/atelier/atelier.jpg)
 
 {:.info}
-[**CHI'16**](https://chi2016.acm.org/wp/): [**Atelier: Repurposing Expert Crowdsourcing Tasks as Micro-internships**](/publications/chi-2016-atelier.pdf)
+[**CHI 2016**](https://chi2016.acm.org/wp/): [**Atelier: Repurposing Expert Crowdsourcing Tasks as Micro-internships**](/publications/chi-2016-atelier.pdf)
 <br>
 **Ryo Suzuki**, Niloufar Salehi, Michelle S. Lam, Juan C. Marroquin, and Michael S. Bernstein.
 <br>
@@ -156,7 +156,7 @@ Reudismam Rolim, Gustavo Soares, Loris D’Antoni, Oleksandr Polozov, Sumit Gulw
 
 ### Poster and Demo
 
-[**CHI'17**](https://chi2017.acm.org/) Late-Breaking Work: <br>
+[**CHI 2017**](https://chi2017.acm.org/) Late-Breaking Work: <br>
 [**Exploring the Design Space of Automatically Synthesized Hints for Introductory Programming Assignments**](/publications/chi-2017-lbw.pdf)
 <br>
 **Ryo Suzuki**, Gustavo Soares, Elena Glassman, Andrew Head, Loris D’Antoni, Bjoern Hartmann.
@@ -166,15 +166,7 @@ Reudismam Rolim, Gustavo Soares, Loris D’Antoni, Oleksandr Polozov, Sumit Gulw
 [[Poster]](/publications/chi-2017-lbw-poster.pdf)
 
 
-[**Autocomplete Textures for 3D Printing**](https://arxiv.org/pdf/1703.05700.pdf)
-<br>
-**Ryo Suzuki**, Tom Yeh, Koji Yatani, Mark Gross.
-<br>
-[[PDF]](https://arxiv.org/pdf/1703.05700.pdf)
-[[arXiv]](https://arxiv.org/abs/1703.05700)
-
-
-[**UIST'15**](http://uist.acm.org/uist2015/about) Poster:
+[**UIST 2015**](http://uist.acm.org/uist2015/about) Poster:
 <br>
 [**Daemo: a Self-Governed Crowdsourcing Marketplace**](/publications/uist-2015-daemo.pdf)
 <br>
@@ -184,7 +176,7 @@ Stanford Research Collective.
 [[ACM DL]](http://dl.acm.org/citation.cfm?id=2815739)
 
 
-[**CHI'15**](http://chi2015.acm.org/) Workshop Paper:
+[**CHI 2015**](http://chi2015.acm.org/) Workshop Paper:
 <br>
 [**Toward a Community Enhanced Programming Education**](/publications/chi-2015-workshop.pdf)
 <br>
@@ -195,7 +187,7 @@ Stanford Research Collective.
 [[Workshop Website]](http://hci.tokyo/)
 
 
-[**ICSE'15**](http://2015.icse-conferences.org/) Poster:
+[**ICSE 2015**](http://2015.icse-conferences.org/) Poster:
 <br>
 [**Interactive and Collaborative Source Code Annotation**](/publications/icse-2015-cumiki.pdf)
 <br>
@@ -206,7 +198,7 @@ Stanford Research Collective.
 [[Poster]](/publications/icse-2015-cumiki-poster.pdf)
 
 
-[**WINE'14**](http://wine2014.amss.ac.cn/) Poster:
+[**WINE 2014**](http://wine2014.amss.ac.cn/) Poster:
 <br>
 [**Network Thresholds and Multiple Equilibria in the Diffusion of Content-Based Platforms**](/publications/wine-2014-network.pdf)
 <br>
@@ -214,6 +206,14 @@ Stanford Research Collective.
 <br>
 [[PDF]](/publications/wine-2014-network.pdf)
 [[Poster]](/publications/wine-2014-network-poster.pdf)
+
+
+[**Autocomplete Textures for 3D Printing**](https://arxiv.org/pdf/1703.05700.pdf)
+<br>
+**Ryo Suzuki**, Tom Yeh, Koji Yatani, Mark Gross.
+<br>
+[[PDF]](https://arxiv.org/pdf/1703.05700.pdf)
+[[arXiv]](https://arxiv.org/abs/1703.05700)
 
 
 ---

@@ -221,6 +221,9 @@ Stanford Research Collective.
 
 ### Research Experience
 
+December, 2017 --- Current <br>
+**University of Tokyo**, [**ERATO Project**](http://www.jst.go.jp/erato/kawahara/projects/), working with [**Yasuaki Kakehi**](http://www.xlab.sfc.keio.ac.jp/) and [**Yoshihiro Kawahara**](http://www.akg.t.u-tokyo.ac.jp/)
+
 August, 2015 --- Current <br>
 **CU Boulder**, [**HCC Group**](http://hcc.colorado.edu/), working with [**Mark D. Gross**](http://mdgross.net/) and [**Tom Yeh**](http://tomyeh.info/)
 

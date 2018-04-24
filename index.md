@@ -58,8 +58,8 @@ Our work is also featured in the [**media**](https://backchannel.com/its-not-jus
 **Ryo Suzuki**, Jun Kato, Mark D. Gross, Tom Yeh.
 <br>
 [[PDF]](/publications/chi-2018-reactile.pdf)
-[[Video]](https://youtu.be/qmnBqFKC9UE)
-[[Short Video]](https://youtu.be/YT7vMJZjohU)
+[[Video]](https://www.youtube.com/watch?v=qmnBqFKC9UE)
+[[Short Video]](https://www.youtube.com/watch?v=YT7vMJZjohU)
 [[ACM DL]](https://dl.acm.org/citation.cfm?id=3173773)
 [[GitHub]](https://github.com/ryosuzuki/reactile)
 
@@ -75,7 +75,7 @@ Hyunjoo Oh, Tung D. Ta, **Ryo Suzuki**, Mark D. Gross, Yoshihiro Kawahara, Linin
 <br>
 [[PDF]](/publications/chi-2018-pep.pdf)
 [[Video]](https://vimeo.com/252080903)
-[[Short Video]](https://youtu.be/DTd863suDN0)
+[[Short Video]](https://www.youtube.com/watch?v=DTd863suDN0)
 [[ACM DL]](https://dl.acm.org/citation.cfm?id=3174015)
 
 
@@ -90,7 +90,7 @@ Hyunjoo Oh, Tung D. Ta, **Ryo Suzuki**, Mark D. Gross, Yoshihiro Kawahara, Linin
 **Ryo Suzuki**, Abigale Stangl, Mark D. Gross, Tom Yeh.
 <br>
 [[PDF]](/publications/assets-2017-fluxmarker.pdf)
-[[Video]](https://youtu.be/VbwIZ9V6i_g)
+[[Video]](https://www.youtube.com/watch?v=VbwIZ9V6i_g)
 [[Slide]](/publications/assets-2017-fluxmarker-slide.pdf)
 [[ACM DL]](https://dl.acm.org/citation.cfm?id=3132548)
 [[arXiv]](https://arxiv.org/abs/1708.03783)
@@ -149,7 +149,7 @@ Reudismam Rolim, Gustavo Soares, Loris D’Antoni, Oleksandr Polozov, Sumit Gulw
 **Ryo Suzuki**, Niloufar Salehi, Michelle S. Lam, Juan C. Marroquin, and Michael S. Bernstein.
 <br>
 [[PDF]](/publications/chi-2016-atelier.pdf)
-[[Video]](https://youtu.be/tBojZejtFQo)
+[[Video]](https://www.youtube.com/watch?v=tBojZejtFQo)
 [[Slide]](/publications/chi-2016-atelier-slide.pdf)
 [[ACM DL]](http://dl.acm.org/citation.cfm?id=2858121)
 [[arXiv]](https://arxiv.org/abs/1602.06634)

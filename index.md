@@ -58,7 +58,7 @@ Our work is also featured in the [**media**](https://backchannel.com/its-not-jus
 **Ryo Suzuki**, Jun Kato, Mark D. Gross, Tom Yeh.
 <br>
 [[PDF]](/publications/chi-2018-reactile.pdf)
-<!-- [[Video (Short)]](https://youtu.be/YT7vMJZjohU) -->
+[[Video (30s)]](https://youtu.be/YT7vMJZjohU)
 [[Video]](https://youtu.be/qmnBqFKC9UE)
 [[ACM DL]](https://dl.acm.org/citation.cfm?id=3173773)
 [[GitHub]](https://github.com/ryosuzuki/reactile)
@@ -74,7 +74,7 @@ Our work is also featured in the [**media**](https://backchannel.com/its-not-jus
 Hyunjoo Oh, Tung D. Ta, **Ryo Suzuki**, Mark D. Gross, Yoshihiro Kawahara, Lining Yao.
 <br>
 [[PDF]](/publications/chi-2018-pep.pdf)
-<!-- [[Video (Short)]](https://youtu.be/DTd863suDN0) -->
+[[Video (30s)]](https://youtu.be/DTd863suDN0)
 [[Video]](https://vimeo.com/252080903)
 [[ACM DL]](https://dl.acm.org/citation.cfm?id=3174015)
 

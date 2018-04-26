@@ -60,6 +60,7 @@ Our work is also featured in the [**media**](https://backchannel.com/its-not-jus
 [[PDF]](/publications/chi-2018-reactile.pdf)
 [[Video]](https://www.youtube.com/watch?v=Gb7brajKCVE)
 [[Short Video]](https://www.youtube.com/watch?v=YT7vMJZjohU)
+[[Slide]](/publications/chi-2018-reactile-slide.pdf)
 [[ACM DL]](https://dl.acm.org/citation.cfm?id=3173773)
 [[GitHub]](https://github.com/ryosuzuki/reactile)
 

@@ -7,8 +7,8 @@ google_analytics: UA-62643728-1
 links:
   - name:         Home
     url:          /
-  - name:         Projects
-    url:          /projects
+  # - name:         Projects
+  #   url:          /projects
   - name:         CV/Resume
     url:          /cv/cv.pdf
     external:     true
